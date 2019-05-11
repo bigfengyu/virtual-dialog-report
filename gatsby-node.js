@@ -1,7 +1,12 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+const fs = require("fs")
 
-// You can delete this file if you're not using it
+let rawdata = fs.readFileSync("./src/data/data.json")
+let rowsData = JSON.parse(rawdata)
+
+exports.createPages = async ({ actions: { createPage } }) => {
+  createPage({
+    path: `/`,
+    component: require.resolve("./src/templates/index.js"),
+    context: { rowsData },
+  })
+}
