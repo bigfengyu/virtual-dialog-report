@@ -12,7 +12,7 @@ const columns = [
     render: (text, record, index) => (
       <div style={{ textAlign: "center" }}>
         <img className="vimg" src={record.image} alt="visual img"/>
-        <p>caption</p>
+        <p>{record.caption}</p>
       </div>
     ),
   },
@@ -81,6 +81,7 @@ const transformDataSource = data => {
         image: `https://vision.ece.vt.edu/mscoco/images/val2014/COCO_val2014_${(
           row[0].img_id + ""
         ).padStart(12, 0)}`,
+        caption: row[0].caption || '-',
         ques_list: row.map(r => r.ques),
         gt_ans_list: row.map(r => r.gt_ans),
         sample_ans_list: row.map(r => r.sample_ans),

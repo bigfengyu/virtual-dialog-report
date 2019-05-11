@@ -5,7 +5,8 @@
         "gt_ans": "they are teenagers ",
         "sample_ans": "20s ",
         "rnd": 0,
-        "img_id": 378467
+        "img_id": 378467,
+        "caption": "测试 caption"
       },
       {
         "ques": "are they all the same race ? ",
