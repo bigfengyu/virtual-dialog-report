@@ -1,5 +1,19 @@
-ul {
-  text-decoration: none;
+.vtable-row li {
+  margin-bottom: calc(1.45rem / 2);
+  list-style: none;
+}
+
+.vtable-row ul {
+  margin: 0;
+  padding: 0;
+}
+
+.vtable-row {
+  background: #ffffff;
+}
+
+.ant-table-thead > tr > th.vhead {
+  text-align: center;
 }
 
 img.vimg {

@@ -1,7 +1,9 @@
 import React from "react"
-import { Layout, Table } from "antd"
+import { Layout, Table, Pagination } from "antd"
+import { navigate } from "@reach/router"
+
 import "./index.css"
-import "./layout.css"
+import "normalize.css"
 
 const { Header, Content } = Layout
 
@@ -11,10 +13,11 @@ const columns = [
     dataIndex: "image",
     render: (text, record, index) => (
       <div style={{ textAlign: "center" }}>
-        <img className="vimg" src={record.image} alt="visual img"/>
+        <img className="vimg" src={record.image} alt="visual img" />
         <p>{record.caption}</p>
       </div>
     ),
+    className: 'vhead'
   },
   {
     title: "Question",
@@ -22,12 +25,14 @@ const columns = [
     render: (text, record) => (
       <ul>
         {record.ques_list.map((q, index) => (
-          <li>
+          <li key={index}>
             Q{index + 1}: {q}
           </li>
         ))}
       </ul>
     ),
+    className: 'vhead'
+
   },
   {
     title: "GT Answer",
@@ -35,12 +40,14 @@ const columns = [
     render: (text, record) => (
       <ul>
         {record.gt_ans_list.map((e, index) => (
-          <li>
+          <li key={index}>
             A{index + 1}: {e}
           </li>
         ))}
       </ul>
     ),
+    className: 'vhead'
+
   },
   {
     title: "Sample Answer",
@@ -48,12 +55,14 @@ const columns = [
     render: (text, record) => (
       <ul>
         {record.sample_ans_list.map((e, index) => (
-          <li>
+          <li key={index}>
             A{index + 1}: {e}
           </li>
         ))}
       </ul>
     ),
+    className: 'vhead'
+
   },
 ]
 
@@ -81,7 +90,7 @@ const transformDataSource = data => {
         image: `https://vision.ece.vt.edu/mscoco/images/val2014/COCO_val2014_${(
           row[0].img_id + ""
         ).padStart(12, 0)}`,
-        caption: row[0].caption || '-',
+        caption: row[0].caption || "-",
         ques_list: row.map(r => r.ques),
         gt_ans_list: row.map(r => r.gt_ans),
         sample_ans_list: row.map(r => r.sample_ans),
@@ -91,18 +100,33 @@ const transformDataSource = data => {
   return newData
 }
 
-const IndexPage = ({pageContext: {rowsData}}) => {
+const goToPage = page => {
+  navigate(`/page/${page}`)
+}
+
+const IndexPage = ({ pageContext: { rowsData, total, page, pageSize } }) => {
   const dataSource = transformDataSource(rowsData)
   return (
     <Layout>
       <Header style={{ color: "white", fontSize: 28 }}>Virtual Dialog</Header>
       <Content>
-        <Table dataSource={dataSource} columns={columns} size="middle" pagination={false}/>
+        <Table
+          rowKey="image"
+          dataSource={dataSource}
+          columns={columns}
+          rowClassName="vtable-row"
+          size="middle"
+          pagination={{
+            showQuickJumper: true,
+            current: page,
+            total,
+            pageSize,
+            onChange: goToPage,
+          }}
+        />
       </Content>
     </Layout>
   )
 }
 
 export default IndexPage
-
-

@@ -1,0 +1,10 @@
+[
+  {
+    "ques": "what age are the women ? ",
+    "gt_ans": "they are teenagers ",
+    "sample_ans": "20s ",
+    "rnd": 0,
+    "img_id": 378467,
+    "caption": "a group of women walk down a road"
+  }
+]

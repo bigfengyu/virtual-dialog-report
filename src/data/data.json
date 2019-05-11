@@ -1,3604 +1,3602 @@
 [
-    [
-      {
-        "ques": "what age are the women ? ",
-        "gt_ans": "they are teenagers ",
-        "sample_ans": "20s ",
-        "rnd": 0,
-        "img_id": 378467,
-        "caption": "测试 caption"
-      },
-      {
-        "ques": "are they all the same race ? ",
-        "gt_ans": "most of them look to be ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 378467
-      },
-      {
-        "ques": "are they happy ? ",
-        "gt_ans": "they all look happy ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 378467
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes it is daytime ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 378467
-      },
-      {
-        "ques": "what kind of road ? ",
-        "gt_ans": "the road is concrete ",
-        "sample_ans": "a paved road ",
-        "rnd": 4,
-        "img_id": 378467
-      },
-      {
-        "ques": "is it in the country ? ",
-        "gt_ans": "maybe it looks like a park like area ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 378467
-      },
-      {
-        "ques": "are there any cars ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no cars ",
-        "rnd": 6,
-        "img_id": 378467
-      },
-      {
-        "ques": "any other people ? ",
-        "gt_ans": "i see 1 person in the distance ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 378467
-      },
-      {
-        "ques": "any animals ? ",
-        "gt_ans": "no i can not see any animals ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 378467
-      },
-      {
-        "ques": "are they wearing coats ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 378467
-      }
-    ],
-    [
-      {
-        "ques": "are these friends ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 470924
-      },
-      {
-        "ques": "is this inside ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 470924
-      },
-      {
-        "ques": "are they facing the camera ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 470924
-      },
-      {
-        "ques": "is this a restaurant ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 470924
-      },
-      {
-        "ques": "are they smiling ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 470924
-      },
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 470924
-      },
-      {
-        "ques": "are there more than 10 ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 470924
-      },
-      {
-        "ques": "are they in their 20s ? ",
-        "gt_ans": "30 's ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 470924
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 470924
-      },
-      {
-        "ques": "is there drinks ? ",
-        "gt_ans": "yes beer ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 470924
-      }
-    ],
-    [
-      {
-        "ques": "is the cycling gear leather ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 89378
-      },
-      {
-        "ques": "is it colored leather ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 89378
-      },
-      {
-        "ques": "does he have a helmet ? ",
-        "gt_ans": "yes , kept over the bike 's handle ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 89378
-      },
-      {
-        "ques": "what color is his leather ? ",
-        "gt_ans": "gear is black & red in color ",
-        "sample_ans": "black ",
-        "rnd": 3,
-        "img_id": 89378
-      },
-      {
-        "ques": "what color is his helmet ? ",
-        "gt_ans": "helmet is black ",
-        "sample_ans": "black color ",
-        "rnd": 4,
-        "img_id": 89378
-      },
-      {
-        "ques": "what color is his bike ? ",
-        "gt_ans": "bike is red in color ",
-        "sample_ans": "bike is black ",
-        "rnd": 5,
-        "img_id": 89378
-      },
-      {
-        "ques": "is it in a parking space ? ",
-        "gt_ans": "looks like some sidewalk ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 89378
-      },
-      {
-        "ques": "can you see the brand of bike ? ",
-        "gt_ans": "not sure as it is far ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 89378
-      },
-      {
-        "ques": "are there people in the photo ? ",
-        "gt_ans": "no other people visible ",
-        "sample_ans": "no people visible ",
-        "rnd": 8,
-        "img_id": 89378
-      },
-      {
-        "ques": "are there any animals ? ",
-        "gt_ans": "no animals seen ",
-        "sample_ans": "no animals seen ",
-        "rnd": 9,
-        "img_id": 89378
-      }
-    ],
-    [
-      {
-        "ques": "can you see the light ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 425874
-      },
-      {
-        "ques": "what color is it ? ",
-        "gt_ans": "red ",
-        "sample_ans": "white ",
-        "rnd": 1,
-        "img_id": 425874
-      },
-      {
-        "ques": "are there many cars stopped ? ",
-        "gt_ans": "5 ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 425874
-      },
-      {
-        "ques": "the first car stopped what color is it ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 3,
-        "img_id": 425874
-      },
-      {
-        "ques": "do you see any street signs ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 425874
-      },
-      {
-        "ques": "are there houses or businesses on the street ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 425874
-      },
-      {
-        "ques": "do you see any trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 425874
-      },
-      {
-        "ques": "can you tell if this is day or night ? ",
-        "gt_ans": "night ",
-        "sample_ans": "day ",
-        "rnd": 7,
-        "img_id": 425874
-      },
-      {
-        "ques": "are there leaves all on the trees as in summer ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 425874
-      },
-      {
-        "ques": "are there any street lights on ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 425874
-      }
-    ],
-    [
-      {
-        "ques": "about how old ? ",
-        "gt_ans": "toddler ",
-        "sample_ans": "6 or 7 ",
-        "rnd": 0,
-        "img_id": 425870
-      },
-      {
-        "ques": "boy or girl ? ",
-        "gt_ans": "boy ",
-        "sample_ans": "boy ",
-        "rnd": 1,
-        "img_id": 425870
-      },
-      {
-        "ques": "is it a wii remote he is holding ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 425870
-      },
-      {
-        "ques": "anyone with him ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 425870
-      },
-      {
-        "ques": "is he smiling ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 425870
-      },
-      {
-        "ques": "how many people ? ",
-        "gt_ans": "1 ",
-        "sample_ans": "1 ",
-        "rnd": 5,
-        "img_id": 425870
-      },
-      {
-        "ques": "his mother ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 425870
-      },
-      {
-        "ques": "what color is his hair ? ",
-        "gt_ans": "blonde ",
-        "sample_ans": "brown ",
-        "rnd": 7,
-        "img_id": 425870
-      },
-      {
-        "ques": "can you see the tv ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 425870
-      },
-      {
-        "ques": "is the other person holding a remote also ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 425870
-      }
-    ],
-    [
-      {
-        "ques": "how many men ? ",
-        "gt_ans": "there are more than 10 men ",
-        "sample_ans": "2 ",
-        "rnd": 0,
-        "img_id": 256903
-      },
-      {
-        "ques": "how old are they ? ",
-        "gt_ans": "middle-aged ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 1,
-        "img_id": 256903
-      },
-      {
-        "ques": "is there only 1 snowboard ? ",
-        "gt_ans": "no , there are many ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 256903
-      },
-      {
-        "ques": "is the slope steep ? ",
-        "gt_ans": "no , it seems mild ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 256903
-      },
-      {
-        "ques": "is it currently snowing ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 256903
-      },
-      {
-        "ques": "do the men seem to know each other ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 256903
-      },
-      {
-        "ques": "are there trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 256903
-      },
-      {
-        "ques": "what is the most common board color ? ",
-        "gt_ans": "red and white ",
-        "sample_ans": "blue ",
-        "rnd": 7,
-        "img_id": 256903
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 256903
-      },
-      {
-        "ques": "are any of them looking at the camera ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 256903
-      }
-    ],
-    [
-      {
-        "ques": "is there people on the bus ? ",
-        "gt_ans": "it is empty ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 256906
-      },
-      {
-        "ques": "is it a brand new bus ? ",
-        "gt_ans": "yes seems lie ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 256906
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 256906
-      },
-      {
-        "ques": "is this a large city ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 256906
-      },
-      {
-        "ques": "can you see taxi 's ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 256906
-      },
-      {
-        "ques": "can you see people walking ? ",
-        "gt_ans": "no they ate by bus standing ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 256906
-      },
-      {
-        "ques": "is it nice weather ? ",
-        "gt_ans": "yes very nice ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 256906
-      },
-      {
-        "ques": "are there any large attractions nearby ? ",
-        "gt_ans": "it looks like travel destination , so may ",
-        "sample_ans": "not really ",
-        "rnd": 7,
-        "img_id": 256906
-      },
-      {
-        "ques": "can you see the sky ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 256906
-      },
-      {
-        "ques": "can you see the beach ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 256906
-      }
-    ],
-    [
-      {
-        "ques": "is this picture ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 576191
-      },
-      {
-        "ques": "is it in color ? ",
-        "gt_ans": "yes it is ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 576191
-      },
-      {
-        "ques": "is it day time ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 576191
-      },
-      {
-        "ques": "is the tiger big ? ",
-        "gt_ans": "no , it 's a regular cat ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 576191
-      },
-      {
-        "ques": "are there any people are there any other animals ? ",
-        "gt_ans": "no people or other animals ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 576191
-      },
-      {
-        "ques": "do you see any cars ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 576191
-      },
-      {
-        "ques": "do you see any birds ? ",
-        "gt_ans": "no birds ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 576191
-      },
-      {
-        "ques": "is there any grass ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no grass ",
-        "rnd": 7,
-        "img_id": 576191
-      },
-      {
-        "ques": "do you see any bodies of water ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 576191
-      },
-      {
-        "ques": "is there any grass ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 576191
-      }
-    ],
-    [
-      {
-        "ques": "is this a couple ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 221547
-      },
-      {
-        "ques": "are they young or old ? ",
-        "gt_ans": "young ",
-        "sample_ans": "young ",
-        "rnd": 1,
-        "img_id": 221547
-      },
-      {
-        "ques": "how are they dressed ? ",
-        "gt_ans": "casual ",
-        "sample_ans": "casual ",
-        "rnd": 2,
-        "img_id": 221547
-      },
-      {
-        "ques": "are there other passengers ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 221547
-      },
-      {
-        "ques": "is anyone standing ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 221547
-      },
-      {
-        "ques": "can you see outside the window ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 221547
-      },
-      {
-        "ques": "does it seem to be underground ? ",
-        "gt_ans": "maybe ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 221547
-      },
-      {
-        "ques": "is it well lit ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 221547
-      },
-      {
-        "ques": "can you see signs on the wall ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 221547
-      },
-      {
-        "ques": "does it say the city ? ",
-        "gt_ans": "maps ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 221547
-      }
-    ],
-    [
-      {
-        "ques": "how many zebras ? ",
-        "gt_ans": "2 ",
-        "sample_ans": "1 ",
-        "rnd": 0,
-        "img_id": 439015
-      },
-      {
-        "ques": "do you see any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 439015
-      },
-      {
-        "ques": "are they eating ? ",
-        "gt_ans": "i do n't think so ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 439015
-      },
-      {
-        "ques": "are they drinking ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 439015
-      },
-      {
-        "ques": "do they look clean or dirty ? ",
-        "gt_ans": "the 1 i can see well , looks ",
-        "sample_ans": "clean ",
-        "rnd": 4,
-        "img_id": 439015
-      },
-      {
-        "ques": "are they at a zoo ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 5,
-        "img_id": 439015
-      },
-      {
-        "ques": "are there any other animals ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 439015
-      },
-      {
-        "ques": "is it nice outside ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 439015
-      },
-      {
-        "ques": "are they enclosed inside a pen ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 8,
-        "img_id": 439015
-      },
-      {
-        "ques": "are they facing the camera ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 439015
-      }
-    ],
-    [
-      {
-        "ques": "is this picture in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 103548
-      },
-      {
-        "ques": "is this outside ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 103548
-      },
-      {
-        "ques": "how many sheep ? ",
-        "gt_ans": "too many to count ",
-        "sample_ans": "about 30 ",
-        "rnd": 2,
-        "img_id": 103548
-      },
-      {
-        "ques": "is it day time ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 103548
-      },
-      {
-        "ques": "what color is the person 's shirt ? ",
-        "gt_ans": "black ",
-        "sample_ans": "white ",
-        "rnd": 4,
-        "img_id": 103548
-      },
-      {
-        "ques": "do you see any trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 103548
-      },
-      {
-        "ques": "do you see any grass ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 103548
-      },
-      {
-        "ques": "do you see any cars ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 103548
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 103548
-      },
-      {
-        "ques": "do you see any clouds ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 103548
-      }
-    ],
-    [
-      {
-        "ques": "are hot dogs in bun ? ",
-        "gt_ans": "yes , there 's only 1 though ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 82449
-      },
-      {
-        "ques": "are they on plate ? ",
-        "gt_ans": "no , it 's in cardboard container ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 82449
-      },
-      {
-        "ques": "are they steak fries ? ",
-        "gt_ans": "no , they are shoestring fries ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 82449
-      },
-      {
-        "ques": "are they on table ? ",
-        "gt_ans": "they seem to be ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 82449
-      },
-      {
-        "ques": "is it inside ? ",
-        "gt_ans": "it 's hard to say , all i ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 82449
-      },
-      {
-        "ques": "is hot dog foot long ? ",
-        "gt_ans": "no it looks like normal size dog ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 82449
-      },
-      {
-        "ques": "does it look good ? ",
-        "gt_ans": "it looks delicious ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 82449
-      },
-      {
-        "ques": "any ketchup ? ",
-        "gt_ans": "no , not that i can see ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 82449
-      },
-      {
-        "ques": "any mustard ? ",
-        "gt_ans": "yes ! lots of mustard ",
-        "sample_ans": "no mustard ",
-        "rnd": 8,
-        "img_id": 82449
-      },
-      {
-        "ques": "any drink ? ",
-        "gt_ans": "there are no drinks ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 82449
-      }
-    ],
-    [
-      {
-        "ques": "what color is the cat ? ",
-        "gt_ans": "black and white ",
-        "sample_ans": "black and white ",
-        "rnd": 0,
-        "img_id": 127477
-      },
-      {
-        "ques": "is the cat big ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 127477
-      },
-      {
-        "ques": "what color is the suitcase ? ",
-        "gt_ans": "brown ",
-        "sample_ans": "brown ",
-        "rnd": 2,
-        "img_id": 127477
-      },
-      {
-        "ques": "is it inside ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 127477
-      },
-      {
-        "ques": "is it day time ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 127477
-      },
-      {
-        "ques": "do you see any walls ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 127477
-      },
-      {
-        "ques": "can you see the floor ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 127477
-      },
-      {
-        "ques": "do you see a plant ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 127477
-      },
-      {
-        "ques": "is there any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 127477
-      },
-      {
-        "ques": "do you see any carpet ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 127477
-      }
-    ],
-    [
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 127476
-      },
-      {
-        "ques": "is it a professional photo ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 127476
-      },
-      {
-        "ques": "is it well lit ? ",
-        "gt_ans": "yes with daylight ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 127476
-      },
-      {
-        "ques": "what color is the plate ? ",
-        "gt_ans": "it 's black i think it 's a ",
-        "sample_ans": "white ",
-        "rnd": 3,
-        "img_id": 127476
-      },
-      {
-        "ques": "what 's the plate made out of ? ",
-        "gt_ans": "plastic maybe ",
-        "sample_ans": "ceramic ",
-        "rnd": 4,
-        "img_id": 127476
-      },
-      {
-        "ques": "what kind of pizza ? ",
-        "gt_ans": "pepperoni and olive and mushroom ",
-        "sample_ans": "cheese ",
-        "rnd": 5,
-        "img_id": 127476
-      },
-      {
-        "ques": "was the pizza a triangular shape ? ",
-        "gt_ans": "the slices are ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 127476
-      },
-      {
-        "ques": "is it a half of a whole pizza ? ",
-        "gt_ans": "half is eaten ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 127476
-      },
-      {
-        "ques": "is it a thin crust pizza ? ",
-        "gt_ans": "no , thick ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 127476
-      },
-      {
-        "ques": "so it 's not a half of a sliced pizza ? ",
-        "gt_ans": "yes it 's half eaten ",
-        "sample_ans": "correct ",
-        "rnd": 9,
-        "img_id": 127476
-      }
-    ],
-    [
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes it is ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 127475
-      },
-      {
-        "ques": "what color is the cow ? ",
-        "gt_ans": "black and white ",
-        "sample_ans": "black and white ",
-        "rnd": 1,
-        "img_id": 127475
-      },
-      {
-        "ques": "is there just 1 ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 127475
-      },
-      {
-        "ques": "is the grass long ? ",
-        "gt_ans": "yes it is ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 127475
-      },
-      {
-        "ques": "is the cow looking at us ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 127475
-      },
-      {
-        "ques": "can you see the whole cow ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 127475
-      },
-      {
-        "ques": "is there any trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 127475
-      },
-      {
-        "ques": "leaves on the trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 127475
-      },
-      {
-        "ques": "can you see the sky ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes i can ",
-        "rnd": 8,
-        "img_id": 127475
-      },
-      {
-        "ques": "is it cloudy ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 127475
-      }
-    ],
-    [
-      {
-        "ques": "how old are they ? ",
-        "gt_ans": "3 or 4 ",
-        "sample_ans": "in their 20s ",
-        "rnd": 0,
-        "img_id": 127474
-      },
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 127474
-      },
-      {
-        "ques": "are they wearing hats ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 127474
-      },
-      {
-        "ques": "are they adult sized hats ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 127474
-      },
-      {
-        "ques": "and they are poking a hydrant ? ",
-        "gt_ans": "touching it ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 127474
-      },
-      {
-        "ques": "are they blonde ? ",
-        "gt_ans": "sort of ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 127474
-      },
-      {
-        "ques": "with their hands ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 127474
-      },
-      {
-        "ques": "is it UNK the hydrant ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 127474
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 127474
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 127474
-      }
-    ],
-    [
-      {
-        "ques": "is the cat adult size ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 120129
-      },
-      {
-        "ques": "what are the 2 colors ? ",
-        "gt_ans": "gray and black and white ",
-        "sample_ans": "black and white ",
-        "rnd": 1,
-        "img_id": 120129
-      },
-      {
-        "ques": "does it look afraid ? ",
-        "gt_ans": "kind of ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 120129
-      },
-      {
-        "ques": "what is the color of the wall ? ",
-        "gt_ans": "green maybe ",
-        "sample_ans": "green ",
-        "rnd": 3,
-        "img_id": 120129
-      },
-      {
-        "ques": "how about the floor ? ",
-        "gt_ans": "ca n't see it ",
-        "sample_ans": "ca n't see it ",
-        "rnd": 4,
-        "img_id": 120129
-      },
-      {
-        "ques": "anyone in view ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 120129
-      },
-      {
-        "ques": "is this outside ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 120129
-      },
-      {
-        "ques": "is the light on ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 120129
-      },
-      {
-        "ques": "any furniture around ? ",
-        "gt_ans": "ca n't tell , it ' ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 120129
-      },
-      {
-        "ques": "how about picture frames ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 120129
-      }
-    ],
-    [
-      {
-        "ques": "how old do you think the man is ? ",
-        "gt_ans": "mid 30 's ",
-        "sample_ans": "ca n't see his face ",
-        "rnd": 0,
-        "img_id": 260525
-      },
-      {
-        "ques": "is this photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 260525
-      },
-      {
-        "ques": "is this outdoors ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 260525
-      },
-      {
-        "ques": "how does the weather look ? ",
-        "gt_ans": "slightly overcast ",
-        "sample_ans": "sunny ",
-        "rnd": 3,
-        "img_id": 260525
-      },
-      {
-        "ques": "what color is the frisbee ? ",
-        "gt_ans": "yellow ",
-        "sample_ans": "yellow ",
-        "rnd": 4,
-        "img_id": 260525
-      },
-      {
-        "ques": "can you see other people ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 260525
-      },
-      {
-        "ques": "any animals ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 260525
-      },
-      {
-        "ques": "how many people are there ? ",
-        "gt_ans": "4 ",
-        "sample_ans": "2 ",
-        "rnd": 7,
-        "img_id": 260525
-      },
-      {
-        "ques": "is anyone wearing a green shirt ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 260525
-      },
-      {
-        "ques": "can you see trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 260525
-      }
-    ],
-    [
-      {
-        "ques": "is this picture in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 304545
-      },
-      {
-        "ques": "is this outside ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 304545
-      },
-      {
-        "ques": "is it day time ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see any trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see a floor ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see any signs ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see any other suitcases ? ",
-        "gt_ans": "just the 2 ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 304545
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "the scene is well lit ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 304545
-      },
-      {
-        "ques": "do you see any clouds ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 304545
-      }
-    ],
-    [
-      {
-        "ques": "is this photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 493652
-      },
-      {
-        "ques": "what color is the fireplace ? ",
-        "gt_ans": "brown ",
-        "sample_ans": "brown ",
-        "rnd": 1,
-        "img_id": 493652
-      },
-      {
-        "ques": "is there a fire in it ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 493652
-      },
-      {
-        "ques": "do you see any furniture ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 493652
-      },
-      {
-        "ques": "is there a couch ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 493652
-      },
-      {
-        "ques": "do you see any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 493652
-      },
-      {
-        "ques": "is the fireplace decorated for a holiday ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 493652
-      },
-      {
-        "ques": "do you see a christmas tree ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 493652
-      },
-      {
-        "ques": "does this look like a professional photo ? ",
-        "gt_ans": "maybe ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 493652
-      },
-      {
-        "ques": "are there presents under the tree ? ",
-        "gt_ans": "a few ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 493652
-      }
-    ],
-    [
-      {
-        "ques": "what type of food is there ? ",
-        "gt_ans": "some fancy desserts ",
-        "sample_ans": "breakfast ",
-        "rnd": 0,
-        "img_id": 215303
-      },
-      {
-        "ques": "is there table ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 215303
-      },
-      {
-        "ques": "what else is on table ? ",
-        "gt_ans": "6 glasses of white wine ",
-        "sample_ans": "many items ",
-        "rnd": 2,
-        "img_id": 215303
-      },
-      {
-        "ques": "are there people ? ",
-        "gt_ans": "no , and picture says water but liquid ",
-        "sample_ans": "no people ",
-        "rnd": 3,
-        "img_id": 215303
-      },
-      {
-        "ques": "is it in restaurant ? ",
-        "gt_ans": "might be , fancy garnish on plates ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 215303
-      },
-      {
-        "ques": "can you see walls ? ",
-        "gt_ans": "not really , just some lights in background ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 215303
-      },
-      {
-        "ques": "are there utensils ? ",
-        "gt_ans": "yes , fork ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 215303
-      },
-      {
-        "ques": "does table have centerpiece ? ",
-        "gt_ans": "there 's horse or donkey behind glasses ",
-        "sample_ans": "not that i can see ",
-        "rnd": 7,
-        "img_id": 215303
-      },
-      {
-        "ques": "are there placemats ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 215303
-      },
-      {
-        "ques": "is there window ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 215303
-      }
-    ],
-    [
-      {
-        "ques": "are these people children ? ",
-        "gt_ans": "it looks like a mixture of families ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 452899
-      },
-      {
-        "ques": "is this a field trip you think ? ",
-        "gt_ans": "or just a family UNK ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 452899
-      },
-      {
-        "ques": "is there a lot of grass ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 452899
-      },
-      {
-        "ques": "are there a lot of trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 452899
-      },
-      {
-        "ques": "any vehicles around ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 452899
-      },
-      {
-        "ques": "what color are the kites ? ",
-        "gt_ans": "all different colors ",
-        "sample_ans": "multi colored ",
-        "rnd": 5,
-        "img_id": 452899
-      },
-      {
-        "ques": "is it sunny in the pic ? ",
-        "gt_ans": "ys ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 452899
-      },
-      {
-        "ques": "are there more women than men ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 7,
-        "img_id": 452899
-      },
-      {
-        "ques": "any animals in the shot ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 452899
-      },
-      {
-        "ques": "any water sources showing ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 452899
-      }
-    ],
-    [
-      {
-        "ques": "is there only the 1 young elephant ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 410344
-      },
-      {
-        "ques": "what 's the ground look like is it grassy ? ",
-        "gt_ans": "cement ",
-        "sample_ans": "dirt ",
-        "rnd": 1,
-        "img_id": 410344
-      },
-      {
-        "ques": "how big is the enclosure ? ",
-        "gt_ans": "not sure ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 2,
-        "img_id": 410344
-      },
-      {
-        "ques": "is it small ? ",
-        "gt_ans": "not sure ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 410344
-      },
-      {
-        "ques": "what is the enclosure made of ? ",
-        "gt_ans": "metal fence ",
-        "sample_ans": "wood ",
-        "rnd": 4,
-        "img_id": 410344
-      },
-      {
-        "ques": "is this indoors ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 410344
-      },
-      {
-        "ques": "are there any people in the image ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 410344
-      },
-      {
-        "ques": "do you see a water source ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 410344
-      },
-      {
-        "ques": "is this a close up of the elephant ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 410344
-      },
-      {
-        "ques": "what else do you see ? ",
-        "gt_ans": "nothing ",
-        "sample_ans": "fence ",
-        "rnd": 9,
-        "img_id": 410344
-      }
-    ],
-    [
-      {
-        "ques": "how old is the girl ? ",
-        "gt_ans": "3 ",
-        "sample_ans": "maybe 4 ",
-        "rnd": 0,
-        "img_id": 359105
-      },
-      {
-        "ques": "what color is the cupcake ? ",
-        "gt_ans": "vanilla with white and red frosting ",
-        "sample_ans": "pink ",
-        "rnd": 1,
-        "img_id": 359105
-      },
-      {
-        "ques": "does it have a wrapper on it ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 359105
-      },
-      {
-        "ques": "are there any decorations on it ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 359105
-      },
-      {
-        "ques": "does the girl have frosting on her face ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 359105
-      },
-      {
-        "ques": "are there any other people around ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 359105
-      },
-      {
-        "ques": "is this indoors or outdoors ? ",
-        "gt_ans": "indoors ",
-        "sample_ans": "indoors ",
-        "rnd": 6,
-        "img_id": 359105
-      },
-      {
-        "ques": "is she sitting down ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 359105
-      },
-      {
-        "ques": "what room is she in ? ",
-        "gt_ans": "no way to tell ",
-        "sample_ans": "bedroom ",
-        "rnd": 8,
-        "img_id": 359105
-      },
-      {
-        "ques": "is it well lit ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 359105
-      }
-    ],
-    [
-      {
-        "ques": "are these cows ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 91136
-      },
-      {
-        "ques": "what type of animals ? ",
-        "gt_ans": "sheep ",
-        "sample_ans": "sheep ",
-        "rnd": 1,
-        "img_id": 91136
-      },
-      {
-        "ques": "do you see any other animals ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 91136
-      },
-      {
-        "ques": "have the sheep been shorn ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 91136
-      },
-      {
-        "ques": "how many sheep ? ",
-        "gt_ans": "many ",
-        "sample_ans": "3 ",
-        "rnd": 4,
-        "img_id": 91136
-      },
-      {
-        "ques": "do you see trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 91136
-      },
-      {
-        "ques": "do you see a fence ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 91136
-      },
-      {
-        "ques": "is the grass green ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 91136
-      },
-      {
-        "ques": "are the trees green ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 91136
-      },
-      {
-        "ques": "do you see people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 91136
-      }
-    ],
-    [
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 235380
-      },
-      {
-        "ques": "is the street busy ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 235380
-      },
-      {
-        "ques": "is there buildings made of stone ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 235380
-      },
-      {
-        "ques": "are there any trucks on the street ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 235380
-      },
-      {
-        "ques": "are any buildings made of brick ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 235380
-      },
-      {
-        "ques": "any street signs ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 235380
-      },
-      {
-        "ques": "any people visible ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 235380
-      },
-      {
-        "ques": "is street paved ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 235380
-      },
-      {
-        "ques": "is it day or night ? ",
-        "gt_ans": "day ",
-        "sample_ans": "day ",
-        "rnd": 8,
-        "img_id": 235380
-      },
-      {
-        "ques": "any street lights ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 235380
-      }
-    ],
-    [
-      {
-        "ques": "can you see any people in this picture ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 232173
-      },
-      {
-        "ques": "can you see any buildings ? ",
-        "gt_ans": "only the floor ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 232173
-      },
-      {
-        "ques": "is this indoors or outside ? ",
-        "gt_ans": "indoors ",
-        "sample_ans": "inside ",
-        "rnd": 2,
-        "img_id": 232173
-      },
-      {
-        "ques": "do you think that this might be a store ? ",
-        "gt_ans": "probably not ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 232173
-      },
-      {
-        "ques": "what color is the carpet ? ",
-        "gt_ans": "it is an ivory linoleum with square decorations ",
-        "sample_ans": "beige ",
-        "rnd": 4,
-        "img_id": 232173
-      },
-      {
-        "ques": "what color are the skis ? ",
-        "gt_ans": "green , yellow , red , black and ",
-        "sample_ans": "yellow and black ",
-        "rnd": 5,
-        "img_id": 232173
-      },
-      {
-        "ques": "can you see any words printed on the skis ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 232173
-      },
-      {
-        "ques": "is there only the single pair of skis ? ",
-        "gt_ans": "yes but there are 2 ski boots sitting ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 232173
-      },
-      {
-        "ques": "what color are the ski boots ? ",
-        "gt_ans": "green and black ",
-        "sample_ans": "yellow and black ",
-        "rnd": 8,
-        "img_id": 232173
-      },
-      {
-        "ques": "do the skis look like they are for adults or children , based on the size ",
-        "gt_ans": "can not say for sure ",
-        "sample_ans": "adults ",
-        "rnd": 9,
-        "img_id": 232173
-      }
-    ],
-    [
-      {
-        "ques": "is this outdoors ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 381968
-      },
-      {
-        "ques": "does the carrier have wheels ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 381968
-      },
-      {
-        "ques": "are there any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 381968
-      },
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 381968
-      },
-      {
-        "ques": "is there anything in the carrier ? ",
-        "gt_ans": "it is close but i think there is ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 381968
-      },
-      {
-        "ques": "is this in a house ? ",
-        "gt_ans": "pretty sure yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 381968
-      },
-      {
-        "ques": "can you see the floor ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 381968
-      },
-      {
-        "ques": "what else do you see ? ",
-        "gt_ans": "whatever it is on , it is brown ",
-        "sample_ans": "the floor ",
-        "rnd": 7,
-        "img_id": 381968
-      },
-      {
-        "ques": "can you see the wall ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 381968
-      },
-      {
-        "ques": "can you see a window ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 381968
-      }
-    ],
-    [
-      {
-        "ques": "how many people are there ? ",
-        "gt_ans": "about forty ",
-        "sample_ans": "too many to count ",
-        "rnd": 0,
-        "img_id": 82994
-      },
-      {
-        "ques": "are they all the same sex ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 82994
-      },
-      {
-        "ques": "would you say there are more males or females ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 82994
-      },
-      {
-        "ques": "are they all adults ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 82994
-      },
-      {
-        "ques": "is it a large passenger plane ? ",
-        "gt_ans": "no military plane ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 82994
-      },
-      {
-        "ques": "does the plane have a name or number written on it ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 82994
-      },
-      {
-        "ques": "what is the number or what does it say ? ",
-        "gt_ans": "us air force ",
-        "sample_ans": "UNK ",
-        "rnd": 6,
-        "img_id": 82994
-      },
-      {
-        "ques": "do the people appear to be military personnel ? ",
-        "gt_ans": "maybe they are not in uniform ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 82994
-      },
-      {
-        "ques": "does the plane look old ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 82994
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 82994
-      }
-    ],
-    [
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 401249
-      },
-      {
-        "ques": "is his beard very long ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 401249
-      },
-      {
-        "ques": "what color is his suit ? ",
-        "gt_ans": "black ",
-        "sample_ans": "black ",
-        "rnd": 2,
-        "img_id": 401249
-      },
-      {
-        "ques": "is he looking fancy ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 401249
-      },
-      {
-        "ques": "is this outdoors ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 401249
-      },
-      {
-        "ques": "is it night time ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 401249
-      },
-      {
-        "ques": "can you see other people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 401249
-      },
-      {
-        "ques": "does he look like he 's at some type of event ? ",
-        "gt_ans": "more like outside a home but could be ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 401249
-      },
-      {
-        "ques": "what color is his hair ? ",
-        "gt_ans": "black ",
-        "sample_ans": "brown ",
-        "rnd": 8,
-        "img_id": 401249
-      },
-      {
-        "ques": "see any vehicles ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 401249
-      }
-    ],
-    [
-      {
-        "ques": "is the photo color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 458338
-      },
-      {
-        "ques": "what color are the grapes ? ",
-        "gt_ans": "green ",
-        "sample_ans": "green ",
-        "rnd": 1,
-        "img_id": 458338
-      },
-      {
-        "ques": "is the rear view mirror missing ? ",
-        "gt_ans": "eys ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 458338
-      },
-      {
-        "ques": "does it appear to be in a car truck suv ? ",
-        "gt_ans": "truck ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 458338
-      },
-      {
-        "ques": "are there any people inside of the truck ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 458338
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 458338
-      },
-      {
-        "ques": "what kind of weather does it look like it is outside ? ",
-        "gt_ans": "sunny ",
-        "sample_ans": "sunny ",
-        "rnd": 6,
-        "img_id": 458338
-      },
-      {
-        "ques": "how big of a truck would you say it is ? ",
-        "gt_ans": "mack truck size ",
-        "sample_ans": "small ",
-        "rnd": 7,
-        "img_id": 458338
-      },
-      {
-        "ques": "about how many fake grapes do you see that are hung up ? ",
-        "gt_ans": "30 ",
-        "sample_ans": "30 ",
-        "rnd": 8,
-        "img_id": 458338
-      },
-      {
-        "ques": "does it hang down in the way of where the driver would need to see ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 458338
-      }
-    ],
-    [
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 401244
-      },
-      {
-        "ques": "any other people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 401244
-      },
-      {
-        "ques": "is the man old or young ? ",
-        "gt_ans": "young ",
-        "sample_ans": "young ",
-        "rnd": 2,
-        "img_id": 401244
-      },
-      {
-        "ques": "what color is the man ? ",
-        "gt_ans": "white ",
-        "sample_ans": "white ",
-        "rnd": 3,
-        "img_id": 401244
-      },
-      {
-        "ques": "what color is his hair ? ",
-        "gt_ans": "black ",
-        "sample_ans": "black ",
-        "rnd": 4,
-        "img_id": 401244
-      },
-      {
-        "ques": "is he wearing glasses ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 401244
-      },
-      {
-        "ques": "is there a decal on the frisbee ? ",
-        "gt_ans": "ca n't tell only can see the bottom ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 401244
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 401244
-      },
-      {
-        "ques": "what color is the frisbee ? ",
-        "gt_ans": "white ",
-        "sample_ans": "white ",
-        "rnd": 8,
-        "img_id": 401244
-      },
-      {
-        "ques": "is this indoors or outdoors ? ",
-        "gt_ans": "outdoors ",
-        "sample_ans": "outdoors ",
-        "rnd": 9,
-        "img_id": 401244
-      }
-    ],
-    [
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 401240
-      },
-      {
-        "ques": "what color are the clock hands ? ",
-        "gt_ans": "black ",
-        "sample_ans": "black ",
-        "rnd": 1,
-        "img_id": 401240
-      },
-      {
-        "ques": "any people ? ",
-        "gt_ans": "yes about 10 ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 401240
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "no it 's cloudy ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 401240
-      },
-      {
-        "ques": "what color is the building ? ",
-        "gt_ans": "gray ",
-        "sample_ans": "gray ",
-        "rnd": 4,
-        "img_id": 401240
-      },
-      {
-        "ques": "is this daytime ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 401240
-      },
-      {
-        "ques": "any vehicles showing ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 401240
-      },
-      {
-        "ques": "any traffic lights showing ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 401240
-      },
-      {
-        "ques": "can you see the door ? ",
-        "gt_ans": "yes from a distance ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 401240
-      },
-      {
-        "ques": "is the door open ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 401240
-      }
-    ],
-    [
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 353889
-      },
-      {
-        "ques": "what race is the woman ? ",
-        "gt_ans": "white ",
-        "sample_ans": "white ",
-        "rnd": 1,
-        "img_id": 353889
-      },
-      {
-        "ques": "is she wearing a visor ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 353889
-      },
-      {
-        "ques": "what color is her hair ? ",
-        "gt_ans": "brown ",
-        "sample_ans": "blonde ",
-        "rnd": 3,
-        "img_id": 353889
-      },
-      {
-        "ques": "is her hair in a ponytail ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 353889
-      },
-      {
-        "ques": "is her hair long ? ",
-        "gt_ans": "somewhat ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 353889
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 353889
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 353889
-      },
-      {
-        "ques": "is this inside ? ",
-        "gt_ans": "i ca n't tell ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 8,
-        "img_id": 353889
-      },
-      {
-        "ques": "is this close up ? ",
-        "gt_ans": "not really ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 353889
-      }
-    ],
-    [
-      {
-        "ques": "is the picture in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 125435
-      },
-      {
-        "ques": "is the pizza whole ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 125435
-      },
-      {
-        "ques": "is it only vegetable toppings ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 125435
-      },
-      {
-        "ques": "is it on a table ? ",
-        "gt_ans": "its on a counter i think ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 125435
-      },
-      {
-        "ques": "does it look like it 's a home or restaurant ? ",
-        "gt_ans": "home ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 4,
-        "img_id": 125435
-      },
-      {
-        "ques": "is there people around ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 125435
-      },
-      {
-        "ques": "can you see the kitchen ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 125435
-      },
-      {
-        "ques": "can you see the walls ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 125435
-      },
-      {
-        "ques": "is there any windows ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 125435
-      },
-      {
-        "ques": "is there a light on ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 125435
-      }
-    ],
-    [
-      {
-        "ques": "is there people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 97156
-      },
-      {
-        "ques": "is the cat big ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 97156
-      },
-      {
-        "ques": "is the floor carpet ? ",
-        "gt_ans": "appears to be ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 97156
-      },
-      {
-        "ques": "is there other furniture ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 97156
-      },
-      {
-        "ques": "what color is the flooring ? ",
-        "gt_ans": "brown ",
-        "sample_ans": "gray ",
-        "rnd": 4,
-        "img_id": 97156
-      },
-      {
-        "ques": "is the room well lit ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 97156
-      },
-      {
-        "ques": "is there walls ? ",
-        "gt_ans": "0 visible ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 97156
-      },
-      {
-        "ques": "is there other suitcases ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 97156
-      },
-      {
-        "ques": "is there a tv ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 97156
-      },
-      {
-        "ques": "is there a lamp ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 97156
-      }
-    ],
-    [
-      {
-        "ques": "what color is the sofa ? ",
-        "gt_ans": "blue ",
-        "sample_ans": "blue ",
-        "rnd": 0,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see a table ? ",
-        "gt_ans": "small little table ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see curtains ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 31735
-      },
-      {
-        "ques": "are UNK large windows ? ",
-        "gt_ans": "about average ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 31735
-      },
-      {
-        "ques": "what color are the curtains ? ",
-        "gt_ans": "white ",
-        "sample_ans": "red ",
-        "rnd": 4,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see a door ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see a rug ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see a lamp ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 31735
-      },
-      {
-        "ques": "what color is the rug ? ",
-        "gt_ans": "red and green design ",
-        "sample_ans": "red ",
-        "rnd": 8,
-        "img_id": 31735
-      },
-      {
-        "ques": "do you see any stairs ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 31735
-      }
-    ],
-    [
-      {
-        "ques": "how many people are there ? ",
-        "gt_ans": "2 people ",
-        "sample_ans": "2 ",
-        "rnd": 0,
-        "img_id": 486803
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "sunny but partly cloudy ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 486803
-      },
-      {
-        "ques": "what gender are the people ? ",
-        "gt_ans": "2 males but hard to confirm ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 2,
-        "img_id": 486803
-      },
-      {
-        "ques": "does the person looks like they will land on their feet ? ",
-        "gt_ans": "the person in the air looks like he ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 486803
-      },
-      {
-        "ques": "what is the snowboarder wearing ? ",
-        "gt_ans": "white ski pant , white jacket , pink ",
-        "sample_ans": "a blue jacket and black pants ",
-        "rnd": 4,
-        "img_id": 486803
-      },
-      {
-        "ques": "what is the photographer wearing ? ",
-        "gt_ans": "a black sweater , pants ",
-        "sample_ans": "blue jacket and black pants ",
-        "rnd": 5,
-        "img_id": 486803
-      },
-      {
-        "ques": "can you see any trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 486803
-      },
-      {
-        "ques": "is there a mountain ? ",
-        "gt_ans": "yes several mountain peaks can be seen ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 486803
-      },
-      {
-        "ques": "does the snow look fresh ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 486803
-      },
-      {
-        "ques": "are there any footprints in the snow ? ",
-        "gt_ans": "only snowboard tracks can be seen ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 486803
-      }
-    ],
-    [
-      {
-        "ques": "is the zebra alone in the photo ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 486805
-      },
-      {
-        "ques": "is it in the wild ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 486805
-      },
-      {
-        "ques": "are there any trees ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 486805
-      },
-      {
-        "ques": "what does the ground look like ? ",
-        "gt_ans": "it is dirt with patches of dirt the ",
-        "sample_ans": "dirt ",
-        "rnd": 3,
-        "img_id": 486805
-      },
-      {
-        "ques": "are there clouds in the sky ? ",
-        "gt_ans": "i ca n't see the sky from this ",
-        "sample_ans": "i ca n't see the sky ",
-        "rnd": 4,
-        "img_id": 486805
-      },
-      {
-        "ques": "what is the zebra eating if the ground is just dirt ? ",
-        "gt_ans": "there are patches of grass , sorry ",
-        "sample_ans": "it 's just dirt ",
-        "rnd": 5,
-        "img_id": 486805
-      },
-      {
-        "ques": "are there any birds on the zebra ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 486805
-      },
-      {
-        "ques": "can you see any water ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 486805
-      },
-      {
-        "ques": "is there anything around the zebra ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 486805
-      },
-      {
-        "ques": "can you see anything else in the picture ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 486805
-      }
-    ],
-    [
-      {
-        "ques": "what city is it in ? ",
-        "gt_ans": "look like big city but i do n't ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 0,
-        "img_id": 195510
-      },
-      {
-        "ques": "are any pedestrians visible ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 195510
-      },
-      {
-        "ques": "can you tell what country it 's in ? ",
-        "gt_ans": "it looks like country in europe ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 195510
-      },
-      {
-        "ques": "can you see any buildings ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 195510
-      },
-      {
-        "ques": "what sort of buildings ? ",
-        "gt_ans": "there are about 5 buildings of different designs ",
-        "sample_ans": "office buildings ",
-        "rnd": 4,
-        "img_id": 195510
-      },
-      {
-        "ques": "is any writing visible ? ",
-        "gt_ans": "there are writings but hardly see them ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 195510
-      },
-      {
-        "ques": "is it daytime ? ",
-        "gt_ans": "yes it is morning or afternoon ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 195510
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "yes , it is sunny ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 195510
-      },
-      {
-        "ques": "are there any clouds ? ",
-        "gt_ans": "yes little bit ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 195510
-      },
-      {
-        "ques": "is ground wet ? ",
-        "gt_ans": "no it is dry ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 195510
-      }
-    ],
-    [
-      {
-        "ques": "is it only the 2 cows visible ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 19974
-      },
-      {
-        "ques": "does it appear to be on a farm ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 19974
-      },
-      {
-        "ques": "are they cows completely brown or brown and white ? ",
-        "gt_ans": "they are completely brown and they are calves ",
-        "sample_ans": "both ",
-        "rnd": 2,
-        "img_id": 19974
-      },
-      {
-        "ques": "are there any people visible ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 19974
-      },
-      {
-        "ques": "can you see a barn ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 19974
-      },
-      {
-        "ques": "any trees around them ? ",
-        "gt_ans": "far off in the background ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 19974
-      },
-      {
-        "ques": "is the barn red ? ",
-        "gt_ans": "no it 's wood brown ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 19974
-      },
-      {
-        "ques": "are the cows eating the grass ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 19974
-      },
-      {
-        "ques": "are they standing up ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 19974
-      },
-      {
-        "ques": "is it a clear day ? ",
-        "gt_ans": "i think so ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 19974
-      }
-    ],
-    [
-      {
-        "ques": "is there any people do you see ? ",
-        "gt_ans": "0 ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 80596
-      },
-      {
-        "ques": "is the bag big ? ",
-        "gt_ans": "medium ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 80596
-      },
-      {
-        "ques": "what type of bag it is ? ",
-        "gt_ans": "a leather bag ",
-        "sample_ans": "backpack ",
-        "rnd": 2,
-        "img_id": 80596
-      },
-      {
-        "ques": "is the bag is filled with luggage ? ",
-        "gt_ans": "no it 's empty ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 80596
-      },
-      {
-        "ques": "do you see the floor ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 80596
-      },
-      {
-        "ques": "is it inside or outside ? ",
-        "gt_ans": "inside ",
-        "sample_ans": "inside ",
-        "rnd": 5,
-        "img_id": 80596
-      },
-      {
-        "ques": "do you see the wall ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 80596
-      },
-      {
-        "ques": "what is the color of wall ? ",
-        "gt_ans": "greyish blue ",
-        "sample_ans": "white ",
-        "rnd": 7,
-        "img_id": 80596
-      },
-      {
-        "ques": "is any pictures on the wall ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 80596
-      },
-      {
-        "ques": "do you see the ceiling ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 80596
-      }
-    ],
-    [
-      {
-        "ques": "is this in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 88021
-      },
-      {
-        "ques": "are there any people ? ",
-        "gt_ans": "i can see 5 ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 88021
-      },
-      {
-        "ques": "how many cars ? ",
-        "gt_ans": "4 ",
-        "sample_ans": "3 ",
-        "rnd": 2,
-        "img_id": 88021
-      },
-      {
-        "ques": "can you see the sky ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 88021
-      },
-      {
-        "ques": "do the cars have numbers ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 88021
-      },
-      {
-        "ques": "are the drivers visible ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 88021
-      },
-      {
-        "ques": "any children ? ",
-        "gt_ans": "no it 's a car show ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 88021
-      },
-      {
-        "ques": "is this america ? ",
-        "gt_ans": "no ",
-        "sample_ans": "i ca n't tell ",
-        "rnd": 7,
-        "img_id": 88021
-      },
-      {
-        "ques": "any flags ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 88021
-      },
-      {
-        "ques": "are the people dressed casually ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 88021
-      }
-    ],
-    [
-      {
-        "ques": "how many people do you see ? ",
-        "gt_ans": "2 ",
-        "sample_ans": "3 ",
-        "rnd": 0,
-        "img_id": 12014
-      },
-      {
-        "ques": "are the windows tinted ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 12014
-      },
-      {
-        "ques": "is the bus full ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 2,
-        "img_id": 12014
-      },
-      {
-        "ques": "is the road bus ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 12014
-      },
-      {
-        "ques": "are there any other cars on the road ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 12014
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 12014
-      },
-      {
-        "ques": "is it raining ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 12014
-      },
-      {
-        "ques": "is it cloudy ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 12014
-      },
-      {
-        "ques": "is there a number on the bus ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 12014
-      },
-      {
-        "ques": "what is the number ? ",
-        "gt_ans": "UNK ",
-        "sample_ans": "UNK ",
-        "rnd": 9,
-        "img_id": 12014
-      }
-    ],
-    [
-      {
-        "ques": "what color are the sheep ? ",
-        "gt_ans": "beige ",
-        "sample_ans": "white ",
-        "rnd": 0,
-        "img_id": 512879
-      },
-      {
-        "ques": "where are they ? ",
-        "gt_ans": "hill ",
-        "sample_ans": "farm ",
-        "rnd": 1,
-        "img_id": 512879
-      },
-      {
-        "ques": "is there a fence ? ",
-        "gt_ans": "rock fence ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 512879
-      },
-      {
-        "ques": "is there water ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 512879
-      },
-      {
-        "ques": "do the sheep have a lot of wool ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 512879
-      },
-      {
-        "ques": "do they look healthy ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 512879
-      },
-      {
-        "ques": "are they dirty ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 512879
-      },
-      {
-        "ques": "are there trees ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 512879
-      },
-      {
-        "ques": "what color is the grass ? ",
-        "gt_ans": "green ",
-        "sample_ans": "green ",
-        "rnd": 8,
-        "img_id": 512879
-      },
-      {
-        "ques": "how is the weather ? ",
-        "gt_ans": "is it sunny ",
-        "sample_ans": "cloudy ",
-        "rnd": 9,
-        "img_id": 512879
-      }
-    ],
-    [
-      {
-        "ques": "are they stop signs ? ",
-        "gt_ans": "no it 's 2 signs UNK the streets ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 12016
-      },
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 12016
-      },
-      {
-        "ques": "what color are the signs ? ",
-        "gt_ans": "green with white lettering ",
-        "sample_ans": "black and white ",
-        "rnd": 2,
-        "img_id": 12016
-      },
-      {
-        "ques": "is it day or night out ? ",
-        "gt_ans": "day ",
-        "sample_ans": "day ",
-        "rnd": 3,
-        "img_id": 12016
-      },
-      {
-        "ques": "is it sunny ? ",
-        "gt_ans": "it is sunny but can still see a ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 12016
-      },
-      {
-        "ques": "are the signs on a pole ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 12016
-      },
-      {
-        "ques": "what color is the pole ? ",
-        "gt_ans": "it 's just a silver metal pole ",
-        "sample_ans": "black ",
-        "rnd": 6,
-        "img_id": 12016
-      },
-      {
-        "ques": "do the signs look new ? ",
-        "gt_ans": "yes they look fairly new ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 12016
-      },
-      {
-        "ques": "is there any graffiti on the signs or pole ? ",
-        "gt_ans": "no graffiti is visible ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 12016
-      },
-      {
-        "ques": "what are the street names ? ",
-        "gt_ans": "worth ave and UNK ave ",
-        "sample_ans": "UNK and UNK ",
-        "rnd": 9,
-        "img_id": 12016
-      }
-    ],
-    [
-      {
-        "ques": "is this picture in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 12010
-      },
-      {
-        "ques": "is the pizza whole ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "yes ",
-        "rnd": 1,
-        "img_id": 12010
-      },
-      {
-        "ques": "is it on a plate ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 2,
-        "img_id": 12010
-      },
-      {
-        "ques": "can you see the table ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 12010
-      },
-      {
-        "ques": "do you see any utensils ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 4,
-        "img_id": 12010
-      },
-      {
-        "ques": "how many pieces of broccoli do you see ? ",
-        "gt_ans": "0 ",
-        "sample_ans": "2 ",
-        "rnd": 5,
-        "img_id": 12010
-      },
-      {
-        "ques": "do you see cheese ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 12010
-      },
-      {
-        "ques": "does the pizza have a bite out of it ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 12010
-      },
-      {
-        "ques": "is it on a plate ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 8,
-        "img_id": 12010
-      },
-      {
-        "ques": "do you see any bacon ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 12010
-      }
-    ],
-    [
-      {
-        "ques": "are there any people ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 100016
-      },
-      {
-        "ques": "are there any animals ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 1,
-        "img_id": 100016
-      },
-      {
-        "ques": "are there any cars ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 2,
-        "img_id": 100016
-      },
-      {
-        "ques": "is picture in city or country ? ",
-        "gt_ans": "city ",
-        "sample_ans": "city ",
-        "rnd": 3,
-        "img_id": 100016
-      },
-      {
-        "ques": "what does billboard advertise ? ",
-        "gt_ans": "shed loads of original shows not sure what ",
-        "sample_ans": "it 's busy street ",
-        "rnd": 4,
-        "img_id": 100016
-      },
-      {
-        "ques": "are there pictures on it ? ",
-        "gt_ans": "yes 3 frames , man , clown in ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 100016
-      },
-      {
-        "ques": "is it old billboard ? ",
-        "gt_ans": "no ",
-        "sample_ans": "yes ",
-        "rnd": 6,
-        "img_id": 100016
-      },
-      {
-        "ques": "what is tunnel made of ? ",
-        "gt_ans": "brick ",
-        "sample_ans": "metal ",
-        "rnd": 7,
-        "img_id": 100016
-      },
-      {
-        "ques": "is it old tunnel ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 8,
-        "img_id": 100016
-      },
-      {
-        "ques": "is it falling apart ? ",
-        "gt_ans": "rather yes ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 100016
-      }
-    ],
-    [
-      {
-        "ques": "is the photo in color ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 0,
-        "img_id": 100010
-      },
-      {
-        "ques": "how many people are there ? ",
-        "gt_ans": "3 ",
-        "sample_ans": "2 ",
-        "rnd": 1,
-        "img_id": 100010
-      },
-      {
-        "ques": "are they male or female ? ",
-        "gt_ans": "ca n't tell since the pic is blurry ",
-        "sample_ans": "male ",
-        "rnd": 2,
-        "img_id": 100010
-      },
-      {
-        "ques": "are they moving ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 3,
-        "img_id": 100010
-      },
-      {
-        "ques": "is there a lot of snow ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 100010
-      },
-      {
-        "ques": "do you see trees ? ",
-        "gt_ans": "yes , a lot ",
-        "sample_ans": "yes ",
-        "rnd": 5,
-        "img_id": 100010
-      },
-      {
-        "ques": "do you see the ski lift ? ",
-        "gt_ans": "no ski lift ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 100010
-      },
-      {
-        "ques": "is there a lot of snow ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 7,
-        "img_id": 100010
-      },
-      {
-        "ques": "are they wearing goggles ? ",
-        "gt_ans": "ca n't tell ",
-        "sample_ans": "ca n't tell ",
-        "rnd": 8,
-        "img_id": 100010
-      },
-      {
-        "ques": "is the photo well lit ? ",
-        "gt_ans": "yes ",
-        "sample_ans": "yes ",
-        "rnd": 9,
-        "img_id": 100010
-      }
-    ],
-    [
-      {
-        "ques": "are zebras in zoo ? ",
-        "gt_ans": "no zebras not in zoo ",
-        "sample_ans": "no ",
-        "rnd": 0,
-        "img_id": 52462
-      },
-      {
-        "ques": "are they adults or babies ? ",
-        "gt_ans": "i would say they are adults ",
-        "sample_ans": "adults ",
-        "rnd": 1,
-        "img_id": 52462
-      },
-      {
-        "ques": "are they standing next to each other ? ",
-        "gt_ans": "1 lead in front , while other 1 ",
-        "sample_ans": "yes they are ",
-        "rnd": 2,
-        "img_id": 52462
-      },
-      {
-        "ques": "is there water source in image ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 3,
-        "img_id": 52462
-      },
-      {
-        "ques": "is it sunny out ? ",
-        "gt_ans": "it does look like sunny ",
-        "sample_ans": "yes ",
-        "rnd": 4,
-        "img_id": 52462
-      },
-      {
-        "ques": "any trees ? ",
-        "gt_ans": "there are few trees but is not in ",
-        "sample_ans": "no ",
-        "rnd": 5,
-        "img_id": 52462
-      },
-      {
-        "ques": "are zebras eating ? ",
-        "gt_ans": "no , they are walking ",
-        "sample_ans": "no ",
-        "rnd": 6,
-        "img_id": 52462
-      },
-      {
-        "ques": "any other animals in picture ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 7,
-        "img_id": 52462
-      },
-      {
-        "ques": "is there any type of enclosure ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 8,
-        "img_id": 52462
-      },
-      {
-        "ques": "is grass green ? ",
-        "gt_ans": "no ",
-        "sample_ans": "no ",
-        "rnd": 9,
-        "img_id": 52462
-      }
-    ]
+  [
+    {
+      "ques": "what age are the women ? ",
+      "gt_ans": "they are teenagers ",
+      "sample_ans": "20s ",
+      "rnd": 0,
+      "img_id": 378467
+    },
+    {
+      "ques": "are they all the same race ? ",
+      "gt_ans": "most of them look to be ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 378467
+    },
+    {
+      "ques": "are they happy ? ",
+      "gt_ans": "they all look happy ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 378467
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes it is daytime ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 378467
+    },
+    {
+      "ques": "what kind of road ? ",
+      "gt_ans": "the road is concrete ",
+      "sample_ans": "a paved road ",
+      "rnd": 4,
+      "img_id": 378467
+    },
+    {
+      "ques": "is it in the country ? ",
+      "gt_ans": "maybe it looks like a park like area ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 378467
+    },
+    {
+      "ques": "are there any cars ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no cars ",
+      "rnd": 6,
+      "img_id": 378467
+    },
+    {
+      "ques": "any other people ? ",
+      "gt_ans": "i see 1 person in the distance ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 378467
+    },
+    {
+      "ques": "any animals ? ",
+      "gt_ans": "no i can not see any animals ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 378467
+    },
+    {
+      "ques": "are they wearing coats ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 378467
+    }
+  ],
+  [
+    {
+      "ques": "are these friends ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 470924
+    },
+    {
+      "ques": "is this inside ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 470924
+    },
+    {
+      "ques": "are they facing the camera ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 470924
+    },
+    {
+      "ques": "is this a restaurant ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 470924
+    },
+    {
+      "ques": "are they smiling ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 470924
+    },
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 470924
+    },
+    {
+      "ques": "are there more than 10 ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 470924
+    },
+    {
+      "ques": "are they in their 20s ? ",
+      "gt_ans": "30 's ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 470924
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 470924
+    },
+    {
+      "ques": "is there drinks ? ",
+      "gt_ans": "yes beer ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 470924
+    }
+  ],
+  [
+    {
+      "ques": "is the cycling gear leather ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 89378
+    },
+    {
+      "ques": "is it colored leather ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 89378
+    },
+    {
+      "ques": "does he have a helmet ? ",
+      "gt_ans": "yes , kept over the bike 's handle ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 89378
+    },
+    {
+      "ques": "what color is his leather ? ",
+      "gt_ans": "gear is black & red in color ",
+      "sample_ans": "black ",
+      "rnd": 3,
+      "img_id": 89378
+    },
+    {
+      "ques": "what color is his helmet ? ",
+      "gt_ans": "helmet is black ",
+      "sample_ans": "black color ",
+      "rnd": 4,
+      "img_id": 89378
+    },
+    {
+      "ques": "what color is his bike ? ",
+      "gt_ans": "bike is red in color ",
+      "sample_ans": "bike is black ",
+      "rnd": 5,
+      "img_id": 89378
+    },
+    {
+      "ques": "is it in a parking space ? ",
+      "gt_ans": "looks like some sidewalk ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 89378
+    },
+    {
+      "ques": "can you see the brand of bike ? ",
+      "gt_ans": "not sure as it is far ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 89378
+    },
+    {
+      "ques": "are there people in the photo ? ",
+      "gt_ans": "no other people visible ",
+      "sample_ans": "no people visible ",
+      "rnd": 8,
+      "img_id": 89378
+    },
+    {
+      "ques": "are there any animals ? ",
+      "gt_ans": "no animals seen ",
+      "sample_ans": "no animals seen ",
+      "rnd": 9,
+      "img_id": 89378
+    }
+  ],
+  [
+    {
+      "ques": "can you see the light ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 425874
+    },
+    {
+      "ques": "what color is it ? ",
+      "gt_ans": "red ",
+      "sample_ans": "white ",
+      "rnd": 1,
+      "img_id": 425874
+    },
+    {
+      "ques": "are there many cars stopped ? ",
+      "gt_ans": "5 ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 425874
+    },
+    {
+      "ques": "the first car stopped what color is it ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 3,
+      "img_id": 425874
+    },
+    {
+      "ques": "do you see any street signs ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 425874
+    },
+    {
+      "ques": "are there houses or businesses on the street ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 425874
+    },
+    {
+      "ques": "do you see any trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 425874
+    },
+    {
+      "ques": "can you tell if this is day or night ? ",
+      "gt_ans": "night ",
+      "sample_ans": "day ",
+      "rnd": 7,
+      "img_id": 425874
+    },
+    {
+      "ques": "are there leaves all on the trees as in summer ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 425874
+    },
+    {
+      "ques": "are there any street lights on ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 425874
+    }
+  ],
+  [
+    {
+      "ques": "about how old ? ",
+      "gt_ans": "toddler ",
+      "sample_ans": "6 or 7 ",
+      "rnd": 0,
+      "img_id": 425870
+    },
+    {
+      "ques": "boy or girl ? ",
+      "gt_ans": "boy ",
+      "sample_ans": "boy ",
+      "rnd": 1,
+      "img_id": 425870
+    },
+    {
+      "ques": "is it a wii remote he is holding ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 425870
+    },
+    {
+      "ques": "anyone with him ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 425870
+    },
+    {
+      "ques": "is he smiling ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 425870
+    },
+    {
+      "ques": "how many people ? ",
+      "gt_ans": "1 ",
+      "sample_ans": "1 ",
+      "rnd": 5,
+      "img_id": 425870
+    },
+    {
+      "ques": "his mother ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 425870
+    },
+    {
+      "ques": "what color is his hair ? ",
+      "gt_ans": "blonde ",
+      "sample_ans": "brown ",
+      "rnd": 7,
+      "img_id": 425870
+    },
+    {
+      "ques": "can you see the tv ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 425870
+    },
+    {
+      "ques": "is the other person holding a remote also ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 425870
+    }
+  ],
+  [
+    {
+      "ques": "how many men ? ",
+      "gt_ans": "there are more than 10 men ",
+      "sample_ans": "2 ",
+      "rnd": 0,
+      "img_id": 256903
+    },
+    {
+      "ques": "how old are they ? ",
+      "gt_ans": "middle-aged ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 1,
+      "img_id": 256903
+    },
+    {
+      "ques": "is there only 1 snowboard ? ",
+      "gt_ans": "no , there are many ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 256903
+    },
+    {
+      "ques": "is the slope steep ? ",
+      "gt_ans": "no , it seems mild ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 256903
+    },
+    {
+      "ques": "is it currently snowing ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 256903
+    },
+    {
+      "ques": "do the men seem to know each other ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 256903
+    },
+    {
+      "ques": "are there trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 256903
+    },
+    {
+      "ques": "what is the most common board color ? ",
+      "gt_ans": "red and white ",
+      "sample_ans": "blue ",
+      "rnd": 7,
+      "img_id": 256903
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 256903
+    },
+    {
+      "ques": "are any of them looking at the camera ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 256903
+    }
+  ],
+  [
+    {
+      "ques": "is there people on the bus ? ",
+      "gt_ans": "it is empty ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 256906
+    },
+    {
+      "ques": "is it a brand new bus ? ",
+      "gt_ans": "yes seems lie ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 256906
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 256906
+    },
+    {
+      "ques": "is this a large city ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 256906
+    },
+    {
+      "ques": "can you see taxi 's ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 256906
+    },
+    {
+      "ques": "can you see people walking ? ",
+      "gt_ans": "no they ate by bus standing ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 256906
+    },
+    {
+      "ques": "is it nice weather ? ",
+      "gt_ans": "yes very nice ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 256906
+    },
+    {
+      "ques": "are there any large attractions nearby ? ",
+      "gt_ans": "it looks like travel destination , so may ",
+      "sample_ans": "not really ",
+      "rnd": 7,
+      "img_id": 256906
+    },
+    {
+      "ques": "can you see the sky ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 256906
+    },
+    {
+      "ques": "can you see the beach ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 256906
+    }
+  ],
+  [
+    {
+      "ques": "is this picture ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 576191
+    },
+    {
+      "ques": "is it in color ? ",
+      "gt_ans": "yes it is ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 576191
+    },
+    {
+      "ques": "is it day time ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 576191
+    },
+    {
+      "ques": "is the tiger big ? ",
+      "gt_ans": "no , it 's a regular cat ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 576191
+    },
+    {
+      "ques": "are there any people are there any other animals ? ",
+      "gt_ans": "no people or other animals ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 576191
+    },
+    {
+      "ques": "do you see any cars ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 576191
+    },
+    {
+      "ques": "do you see any birds ? ",
+      "gt_ans": "no birds ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 576191
+    },
+    {
+      "ques": "is there any grass ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no grass ",
+      "rnd": 7,
+      "img_id": 576191
+    },
+    {
+      "ques": "do you see any bodies of water ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 576191
+    },
+    {
+      "ques": "is there any grass ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 576191
+    }
+  ],
+  [
+    {
+      "ques": "is this a couple ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 221547
+    },
+    {
+      "ques": "are they young or old ? ",
+      "gt_ans": "young ",
+      "sample_ans": "young ",
+      "rnd": 1,
+      "img_id": 221547
+    },
+    {
+      "ques": "how are they dressed ? ",
+      "gt_ans": "casual ",
+      "sample_ans": "casual ",
+      "rnd": 2,
+      "img_id": 221547
+    },
+    {
+      "ques": "are there other passengers ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 221547
+    },
+    {
+      "ques": "is anyone standing ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 221547
+    },
+    {
+      "ques": "can you see outside the window ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 221547
+    },
+    {
+      "ques": "does it seem to be underground ? ",
+      "gt_ans": "maybe ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 221547
+    },
+    {
+      "ques": "is it well lit ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 221547
+    },
+    {
+      "ques": "can you see signs on the wall ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 221547
+    },
+    {
+      "ques": "does it say the city ? ",
+      "gt_ans": "maps ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 221547
+    }
+  ],
+  [
+    {
+      "ques": "how many zebras ? ",
+      "gt_ans": "2 ",
+      "sample_ans": "1 ",
+      "rnd": 0,
+      "img_id": 439015
+    },
+    {
+      "ques": "do you see any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 439015
+    },
+    {
+      "ques": "are they eating ? ",
+      "gt_ans": "i do n't think so ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 439015
+    },
+    {
+      "ques": "are they drinking ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 439015
+    },
+    {
+      "ques": "do they look clean or dirty ? ",
+      "gt_ans": "the 1 i can see well , looks ",
+      "sample_ans": "clean ",
+      "rnd": 4,
+      "img_id": 439015
+    },
+    {
+      "ques": "are they at a zoo ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 5,
+      "img_id": 439015
+    },
+    {
+      "ques": "are there any other animals ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 439015
+    },
+    {
+      "ques": "is it nice outside ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 439015
+    },
+    {
+      "ques": "are they enclosed inside a pen ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 8,
+      "img_id": 439015
+    },
+    {
+      "ques": "are they facing the camera ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 439015
+    }
+  ],
+  [
+    {
+      "ques": "is this picture in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 103548
+    },
+    {
+      "ques": "is this outside ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 103548
+    },
+    {
+      "ques": "how many sheep ? ",
+      "gt_ans": "too many to count ",
+      "sample_ans": "about 30 ",
+      "rnd": 2,
+      "img_id": 103548
+    },
+    {
+      "ques": "is it day time ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 103548
+    },
+    {
+      "ques": "what color is the person 's shirt ? ",
+      "gt_ans": "black ",
+      "sample_ans": "white ",
+      "rnd": 4,
+      "img_id": 103548
+    },
+    {
+      "ques": "do you see any trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 103548
+    },
+    {
+      "ques": "do you see any grass ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 103548
+    },
+    {
+      "ques": "do you see any cars ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 103548
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 103548
+    },
+    {
+      "ques": "do you see any clouds ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 103548
+    }
+  ],
+  [
+    {
+      "ques": "are hot dogs in bun ? ",
+      "gt_ans": "yes , there 's only 1 though ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 82449
+    },
+    {
+      "ques": "are they on plate ? ",
+      "gt_ans": "no , it 's in cardboard container ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 82449
+    },
+    {
+      "ques": "are they steak fries ? ",
+      "gt_ans": "no , they are shoestring fries ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 82449
+    },
+    {
+      "ques": "are they on table ? ",
+      "gt_ans": "they seem to be ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 82449
+    },
+    {
+      "ques": "is it inside ? ",
+      "gt_ans": "it 's hard to say , all i ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 82449
+    },
+    {
+      "ques": "is hot dog foot long ? ",
+      "gt_ans": "no it looks like normal size dog ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 82449
+    },
+    {
+      "ques": "does it look good ? ",
+      "gt_ans": "it looks delicious ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 82449
+    },
+    {
+      "ques": "any ketchup ? ",
+      "gt_ans": "no , not that i can see ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 82449
+    },
+    {
+      "ques": "any mustard ? ",
+      "gt_ans": "yes ! lots of mustard ",
+      "sample_ans": "no mustard ",
+      "rnd": 8,
+      "img_id": 82449
+    },
+    {
+      "ques": "any drink ? ",
+      "gt_ans": "there are no drinks ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 82449
+    }
+  ],
+  [
+    {
+      "ques": "what color is the cat ? ",
+      "gt_ans": "black and white ",
+      "sample_ans": "black and white ",
+      "rnd": 0,
+      "img_id": 127477
+    },
+    {
+      "ques": "is the cat big ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 127477
+    },
+    {
+      "ques": "what color is the suitcase ? ",
+      "gt_ans": "brown ",
+      "sample_ans": "brown ",
+      "rnd": 2,
+      "img_id": 127477
+    },
+    {
+      "ques": "is it inside ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 127477
+    },
+    {
+      "ques": "is it day time ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 127477
+    },
+    {
+      "ques": "do you see any walls ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 127477
+    },
+    {
+      "ques": "can you see the floor ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 127477
+    },
+    {
+      "ques": "do you see a plant ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 127477
+    },
+    {
+      "ques": "is there any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 127477
+    },
+    {
+      "ques": "do you see any carpet ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 127477
+    }
+  ],
+  [
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 127476
+    },
+    {
+      "ques": "is it a professional photo ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 127476
+    },
+    {
+      "ques": "is it well lit ? ",
+      "gt_ans": "yes with daylight ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 127476
+    },
+    {
+      "ques": "what color is the plate ? ",
+      "gt_ans": "it 's black i think it 's a ",
+      "sample_ans": "white ",
+      "rnd": 3,
+      "img_id": 127476
+    },
+    {
+      "ques": "what 's the plate made out of ? ",
+      "gt_ans": "plastic maybe ",
+      "sample_ans": "ceramic ",
+      "rnd": 4,
+      "img_id": 127476
+    },
+    {
+      "ques": "what kind of pizza ? ",
+      "gt_ans": "pepperoni and olive and mushroom ",
+      "sample_ans": "cheese ",
+      "rnd": 5,
+      "img_id": 127476
+    },
+    {
+      "ques": "was the pizza a triangular shape ? ",
+      "gt_ans": "the slices are ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 127476
+    },
+    {
+      "ques": "is it a half of a whole pizza ? ",
+      "gt_ans": "half is eaten ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 127476
+    },
+    {
+      "ques": "is it a thin crust pizza ? ",
+      "gt_ans": "no , thick ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 127476
+    },
+    {
+      "ques": "so it 's not a half of a sliced pizza ? ",
+      "gt_ans": "yes it 's half eaten ",
+      "sample_ans": "correct ",
+      "rnd": 9,
+      "img_id": 127476
+    }
+  ],
+  [
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes it is ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 127475
+    },
+    {
+      "ques": "what color is the cow ? ",
+      "gt_ans": "black and white ",
+      "sample_ans": "black and white ",
+      "rnd": 1,
+      "img_id": 127475
+    },
+    {
+      "ques": "is there just 1 ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 127475
+    },
+    {
+      "ques": "is the grass long ? ",
+      "gt_ans": "yes it is ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 127475
+    },
+    {
+      "ques": "is the cow looking at us ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 127475
+    },
+    {
+      "ques": "can you see the whole cow ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 127475
+    },
+    {
+      "ques": "is there any trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 127475
+    },
+    {
+      "ques": "leaves on the trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 127475
+    },
+    {
+      "ques": "can you see the sky ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes i can ",
+      "rnd": 8,
+      "img_id": 127475
+    },
+    {
+      "ques": "is it cloudy ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 127475
+    }
+  ],
+  [
+    {
+      "ques": "how old are they ? ",
+      "gt_ans": "3 or 4 ",
+      "sample_ans": "in their 20s ",
+      "rnd": 0,
+      "img_id": 127474
+    },
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 127474
+    },
+    {
+      "ques": "are they wearing hats ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 127474
+    },
+    {
+      "ques": "are they adult sized hats ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 127474
+    },
+    {
+      "ques": "and they are poking a hydrant ? ",
+      "gt_ans": "touching it ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 127474
+    },
+    {
+      "ques": "are they blonde ? ",
+      "gt_ans": "sort of ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 127474
+    },
+    {
+      "ques": "with their hands ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 127474
+    },
+    {
+      "ques": "is it UNK the hydrant ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 127474
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 127474
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 127474
+    }
+  ],
+  [
+    {
+      "ques": "is the cat adult size ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 120129
+    },
+    {
+      "ques": "what are the 2 colors ? ",
+      "gt_ans": "gray and black and white ",
+      "sample_ans": "black and white ",
+      "rnd": 1,
+      "img_id": 120129
+    },
+    {
+      "ques": "does it look afraid ? ",
+      "gt_ans": "kind of ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 120129
+    },
+    {
+      "ques": "what is the color of the wall ? ",
+      "gt_ans": "green maybe ",
+      "sample_ans": "green ",
+      "rnd": 3,
+      "img_id": 120129
+    },
+    {
+      "ques": "how about the floor ? ",
+      "gt_ans": "ca n't see it ",
+      "sample_ans": "ca n't see it ",
+      "rnd": 4,
+      "img_id": 120129
+    },
+    {
+      "ques": "anyone in view ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 120129
+    },
+    {
+      "ques": "is this outside ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 120129
+    },
+    {
+      "ques": "is the light on ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 120129
+    },
+    {
+      "ques": "any furniture around ? ",
+      "gt_ans": "ca n't tell , it ' ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 120129
+    },
+    {
+      "ques": "how about picture frames ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 120129
+    }
+  ],
+  [
+    {
+      "ques": "how old do you think the man is ? ",
+      "gt_ans": "mid 30 's ",
+      "sample_ans": "ca n't see his face ",
+      "rnd": 0,
+      "img_id": 260525
+    },
+    {
+      "ques": "is this photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 260525
+    },
+    {
+      "ques": "is this outdoors ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 260525
+    },
+    {
+      "ques": "how does the weather look ? ",
+      "gt_ans": "slightly overcast ",
+      "sample_ans": "sunny ",
+      "rnd": 3,
+      "img_id": 260525
+    },
+    {
+      "ques": "what color is the frisbee ? ",
+      "gt_ans": "yellow ",
+      "sample_ans": "yellow ",
+      "rnd": 4,
+      "img_id": 260525
+    },
+    {
+      "ques": "can you see other people ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 260525
+    },
+    {
+      "ques": "any animals ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 260525
+    },
+    {
+      "ques": "how many people are there ? ",
+      "gt_ans": "4 ",
+      "sample_ans": "2 ",
+      "rnd": 7,
+      "img_id": 260525
+    },
+    {
+      "ques": "is anyone wearing a green shirt ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 260525
+    },
+    {
+      "ques": "can you see trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 260525
+    }
+  ],
+  [
+    {
+      "ques": "is this picture in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 304545
+    },
+    {
+      "ques": "is this outside ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 304545
+    },
+    {
+      "ques": "is it day time ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see any trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see a floor ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see any signs ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see any other suitcases ? ",
+      "gt_ans": "just the 2 ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 304545
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "the scene is well lit ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 304545
+    },
+    {
+      "ques": "do you see any clouds ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 304545
+    }
+  ],
+  [
+    {
+      "ques": "is this photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 493652
+    },
+    {
+      "ques": "what color is the fireplace ? ",
+      "gt_ans": "brown ",
+      "sample_ans": "brown ",
+      "rnd": 1,
+      "img_id": 493652
+    },
+    {
+      "ques": "is there a fire in it ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 493652
+    },
+    {
+      "ques": "do you see any furniture ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 493652
+    },
+    {
+      "ques": "is there a couch ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 493652
+    },
+    {
+      "ques": "do you see any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 493652
+    },
+    {
+      "ques": "is the fireplace decorated for a holiday ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 493652
+    },
+    {
+      "ques": "do you see a christmas tree ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 493652
+    },
+    {
+      "ques": "does this look like a professional photo ? ",
+      "gt_ans": "maybe ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 493652
+    },
+    {
+      "ques": "are there presents under the tree ? ",
+      "gt_ans": "a few ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 493652
+    }
+  ],
+  [
+    {
+      "ques": "what type of food is there ? ",
+      "gt_ans": "some fancy desserts ",
+      "sample_ans": "breakfast ",
+      "rnd": 0,
+      "img_id": 215303
+    },
+    {
+      "ques": "is there table ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 215303
+    },
+    {
+      "ques": "what else is on table ? ",
+      "gt_ans": "6 glasses of white wine ",
+      "sample_ans": "many items ",
+      "rnd": 2,
+      "img_id": 215303
+    },
+    {
+      "ques": "are there people ? ",
+      "gt_ans": "no , and picture says water but liquid ",
+      "sample_ans": "no people ",
+      "rnd": 3,
+      "img_id": 215303
+    },
+    {
+      "ques": "is it in restaurant ? ",
+      "gt_ans": "might be , fancy garnish on plates ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 215303
+    },
+    {
+      "ques": "can you see walls ? ",
+      "gt_ans": "not really , just some lights in background ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 215303
+    },
+    {
+      "ques": "are there utensils ? ",
+      "gt_ans": "yes , fork ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 215303
+    },
+    {
+      "ques": "does table have centerpiece ? ",
+      "gt_ans": "there 's horse or donkey behind glasses ",
+      "sample_ans": "not that i can see ",
+      "rnd": 7,
+      "img_id": 215303
+    },
+    {
+      "ques": "are there placemats ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 215303
+    },
+    {
+      "ques": "is there window ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 215303
+    }
+  ],
+  [
+    {
+      "ques": "are these people children ? ",
+      "gt_ans": "it looks like a mixture of families ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 452899
+    },
+    {
+      "ques": "is this a field trip you think ? ",
+      "gt_ans": "or just a family UNK ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 452899
+    },
+    {
+      "ques": "is there a lot of grass ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 452899
+    },
+    {
+      "ques": "are there a lot of trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 452899
+    },
+    {
+      "ques": "any vehicles around ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 452899
+    },
+    {
+      "ques": "what color are the kites ? ",
+      "gt_ans": "all different colors ",
+      "sample_ans": "multi colored ",
+      "rnd": 5,
+      "img_id": 452899
+    },
+    {
+      "ques": "is it sunny in the pic ? ",
+      "gt_ans": "ys ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 452899
+    },
+    {
+      "ques": "are there more women than men ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 7,
+      "img_id": 452899
+    },
+    {
+      "ques": "any animals in the shot ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 452899
+    },
+    {
+      "ques": "any water sources showing ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 452899
+    }
+  ],
+  [
+    {
+      "ques": "is there only the 1 young elephant ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 410344
+    },
+    {
+      "ques": "what 's the ground look like is it grassy ? ",
+      "gt_ans": "cement ",
+      "sample_ans": "dirt ",
+      "rnd": 1,
+      "img_id": 410344
+    },
+    {
+      "ques": "how big is the enclosure ? ",
+      "gt_ans": "not sure ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 2,
+      "img_id": 410344
+    },
+    {
+      "ques": "is it small ? ",
+      "gt_ans": "not sure ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 410344
+    },
+    {
+      "ques": "what is the enclosure made of ? ",
+      "gt_ans": "metal fence ",
+      "sample_ans": "wood ",
+      "rnd": 4,
+      "img_id": 410344
+    },
+    {
+      "ques": "is this indoors ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 410344
+    },
+    {
+      "ques": "are there any people in the image ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 410344
+    },
+    {
+      "ques": "do you see a water source ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 410344
+    },
+    {
+      "ques": "is this a close up of the elephant ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 410344
+    },
+    {
+      "ques": "what else do you see ? ",
+      "gt_ans": "nothing ",
+      "sample_ans": "fence ",
+      "rnd": 9,
+      "img_id": 410344
+    }
+  ],
+  [
+    {
+      "ques": "how old is the girl ? ",
+      "gt_ans": "3 ",
+      "sample_ans": "maybe 4 ",
+      "rnd": 0,
+      "img_id": 359105
+    },
+    {
+      "ques": "what color is the cupcake ? ",
+      "gt_ans": "vanilla with white and red frosting ",
+      "sample_ans": "pink ",
+      "rnd": 1,
+      "img_id": 359105
+    },
+    {
+      "ques": "does it have a wrapper on it ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 359105
+    },
+    {
+      "ques": "are there any decorations on it ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 359105
+    },
+    {
+      "ques": "does the girl have frosting on her face ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 359105
+    },
+    {
+      "ques": "are there any other people around ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 359105
+    },
+    {
+      "ques": "is this indoors or outdoors ? ",
+      "gt_ans": "indoors ",
+      "sample_ans": "indoors ",
+      "rnd": 6,
+      "img_id": 359105
+    },
+    {
+      "ques": "is she sitting down ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 359105
+    },
+    {
+      "ques": "what room is she in ? ",
+      "gt_ans": "no way to tell ",
+      "sample_ans": "bedroom ",
+      "rnd": 8,
+      "img_id": 359105
+    },
+    {
+      "ques": "is it well lit ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 359105
+    }
+  ],
+  [
+    {
+      "ques": "are these cows ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 91136
+    },
+    {
+      "ques": "what type of animals ? ",
+      "gt_ans": "sheep ",
+      "sample_ans": "sheep ",
+      "rnd": 1,
+      "img_id": 91136
+    },
+    {
+      "ques": "do you see any other animals ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 91136
+    },
+    {
+      "ques": "have the sheep been shorn ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 91136
+    },
+    {
+      "ques": "how many sheep ? ",
+      "gt_ans": "many ",
+      "sample_ans": "3 ",
+      "rnd": 4,
+      "img_id": 91136
+    },
+    {
+      "ques": "do you see trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 91136
+    },
+    {
+      "ques": "do you see a fence ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 91136
+    },
+    {
+      "ques": "is the grass green ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 91136
+    },
+    {
+      "ques": "are the trees green ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 91136
+    },
+    {
+      "ques": "do you see people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 91136
+    }
+  ],
+  [
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 235380
+    },
+    {
+      "ques": "is the street busy ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 235380
+    },
+    {
+      "ques": "is there buildings made of stone ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 235380
+    },
+    {
+      "ques": "are there any trucks on the street ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 235380
+    },
+    {
+      "ques": "are any buildings made of brick ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 235380
+    },
+    {
+      "ques": "any street signs ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 235380
+    },
+    {
+      "ques": "any people visible ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 235380
+    },
+    {
+      "ques": "is street paved ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 235380
+    },
+    {
+      "ques": "is it day or night ? ",
+      "gt_ans": "day ",
+      "sample_ans": "day ",
+      "rnd": 8,
+      "img_id": 235380
+    },
+    {
+      "ques": "any street lights ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 235380
+    }
+  ],
+  [
+    {
+      "ques": "can you see any people in this picture ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 232173
+    },
+    {
+      "ques": "can you see any buildings ? ",
+      "gt_ans": "only the floor ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 232173
+    },
+    {
+      "ques": "is this indoors or outside ? ",
+      "gt_ans": "indoors ",
+      "sample_ans": "inside ",
+      "rnd": 2,
+      "img_id": 232173
+    },
+    {
+      "ques": "do you think that this might be a store ? ",
+      "gt_ans": "probably not ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 232173
+    },
+    {
+      "ques": "what color is the carpet ? ",
+      "gt_ans": "it is an ivory linoleum with square decorations ",
+      "sample_ans": "beige ",
+      "rnd": 4,
+      "img_id": 232173
+    },
+    {
+      "ques": "what color are the skis ? ",
+      "gt_ans": "green , yellow , red , black and ",
+      "sample_ans": "yellow and black ",
+      "rnd": 5,
+      "img_id": 232173
+    },
+    {
+      "ques": "can you see any words printed on the skis ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 232173
+    },
+    {
+      "ques": "is there only the single pair of skis ? ",
+      "gt_ans": "yes but there are 2 ski boots sitting ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 232173
+    },
+    {
+      "ques": "what color are the ski boots ? ",
+      "gt_ans": "green and black ",
+      "sample_ans": "yellow and black ",
+      "rnd": 8,
+      "img_id": 232173
+    },
+    {
+      "ques": "do the skis look like they are for adults or children , based on the size ",
+      "gt_ans": "can not say for sure ",
+      "sample_ans": "adults ",
+      "rnd": 9,
+      "img_id": 232173
+    }
+  ],
+  [
+    {
+      "ques": "is this outdoors ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 381968
+    },
+    {
+      "ques": "does the carrier have wheels ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 381968
+    },
+    {
+      "ques": "are there any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 381968
+    },
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 381968
+    },
+    {
+      "ques": "is there anything in the carrier ? ",
+      "gt_ans": "it is close but i think there is ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 381968
+    },
+    {
+      "ques": "is this in a house ? ",
+      "gt_ans": "pretty sure yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 381968
+    },
+    {
+      "ques": "can you see the floor ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 381968
+    },
+    {
+      "ques": "what else do you see ? ",
+      "gt_ans": "whatever it is on , it is brown ",
+      "sample_ans": "the floor ",
+      "rnd": 7,
+      "img_id": 381968
+    },
+    {
+      "ques": "can you see the wall ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 381968
+    },
+    {
+      "ques": "can you see a window ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 381968
+    }
+  ],
+  [
+    {
+      "ques": "how many people are there ? ",
+      "gt_ans": "about forty ",
+      "sample_ans": "too many to count ",
+      "rnd": 0,
+      "img_id": 82994
+    },
+    {
+      "ques": "are they all the same sex ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 82994
+    },
+    {
+      "ques": "would you say there are more males or females ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 82994
+    },
+    {
+      "ques": "are they all adults ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 82994
+    },
+    {
+      "ques": "is it a large passenger plane ? ",
+      "gt_ans": "no military plane ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 82994
+    },
+    {
+      "ques": "does the plane have a name or number written on it ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 82994
+    },
+    {
+      "ques": "what is the number or what does it say ? ",
+      "gt_ans": "us air force ",
+      "sample_ans": "UNK ",
+      "rnd": 6,
+      "img_id": 82994
+    },
+    {
+      "ques": "do the people appear to be military personnel ? ",
+      "gt_ans": "maybe they are not in uniform ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 82994
+    },
+    {
+      "ques": "does the plane look old ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 82994
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 82994
+    }
+  ],
+  [
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 401249
+    },
+    {
+      "ques": "is his beard very long ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 401249
+    },
+    {
+      "ques": "what color is his suit ? ",
+      "gt_ans": "black ",
+      "sample_ans": "black ",
+      "rnd": 2,
+      "img_id": 401249
+    },
+    {
+      "ques": "is he looking fancy ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 401249
+    },
+    {
+      "ques": "is this outdoors ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 401249
+    },
+    {
+      "ques": "is it night time ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 401249
+    },
+    {
+      "ques": "can you see other people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 401249
+    },
+    {
+      "ques": "does he look like he 's at some type of event ? ",
+      "gt_ans": "more like outside a home but could be ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 401249
+    },
+    {
+      "ques": "what color is his hair ? ",
+      "gt_ans": "black ",
+      "sample_ans": "brown ",
+      "rnd": 8,
+      "img_id": 401249
+    },
+    {
+      "ques": "see any vehicles ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 401249
+    }
+  ],
+  [
+    {
+      "ques": "is the photo color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 458338
+    },
+    {
+      "ques": "what color are the grapes ? ",
+      "gt_ans": "green ",
+      "sample_ans": "green ",
+      "rnd": 1,
+      "img_id": 458338
+    },
+    {
+      "ques": "is the rear view mirror missing ? ",
+      "gt_ans": "eys ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 458338
+    },
+    {
+      "ques": "does it appear to be in a car truck suv ? ",
+      "gt_ans": "truck ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 458338
+    },
+    {
+      "ques": "are there any people inside of the truck ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 458338
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 458338
+    },
+    {
+      "ques": "what kind of weather does it look like it is outside ? ",
+      "gt_ans": "sunny ",
+      "sample_ans": "sunny ",
+      "rnd": 6,
+      "img_id": 458338
+    },
+    {
+      "ques": "how big of a truck would you say it is ? ",
+      "gt_ans": "mack truck size ",
+      "sample_ans": "small ",
+      "rnd": 7,
+      "img_id": 458338
+    },
+    {
+      "ques": "about how many fake grapes do you see that are hung up ? ",
+      "gt_ans": "30 ",
+      "sample_ans": "30 ",
+      "rnd": 8,
+      "img_id": 458338
+    },
+    {
+      "ques": "does it hang down in the way of where the driver would need to see ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 458338
+    }
+  ],
+  [
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 401244
+    },
+    {
+      "ques": "any other people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 401244
+    },
+    {
+      "ques": "is the man old or young ? ",
+      "gt_ans": "young ",
+      "sample_ans": "young ",
+      "rnd": 2,
+      "img_id": 401244
+    },
+    {
+      "ques": "what color is the man ? ",
+      "gt_ans": "white ",
+      "sample_ans": "white ",
+      "rnd": 3,
+      "img_id": 401244
+    },
+    {
+      "ques": "what color is his hair ? ",
+      "gt_ans": "black ",
+      "sample_ans": "black ",
+      "rnd": 4,
+      "img_id": 401244
+    },
+    {
+      "ques": "is he wearing glasses ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 401244
+    },
+    {
+      "ques": "is there a decal on the frisbee ? ",
+      "gt_ans": "ca n't tell only can see the bottom ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 401244
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 401244
+    },
+    {
+      "ques": "what color is the frisbee ? ",
+      "gt_ans": "white ",
+      "sample_ans": "white ",
+      "rnd": 8,
+      "img_id": 401244
+    },
+    {
+      "ques": "is this indoors or outdoors ? ",
+      "gt_ans": "outdoors ",
+      "sample_ans": "outdoors ",
+      "rnd": 9,
+      "img_id": 401244
+    }
+  ],
+  [
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 401240
+    },
+    {
+      "ques": "what color are the clock hands ? ",
+      "gt_ans": "black ",
+      "sample_ans": "black ",
+      "rnd": 1,
+      "img_id": 401240
+    },
+    {
+      "ques": "any people ? ",
+      "gt_ans": "yes about 10 ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 401240
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "no it 's cloudy ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 401240
+    },
+    {
+      "ques": "what color is the building ? ",
+      "gt_ans": "gray ",
+      "sample_ans": "gray ",
+      "rnd": 4,
+      "img_id": 401240
+    },
+    {
+      "ques": "is this daytime ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 401240
+    },
+    {
+      "ques": "any vehicles showing ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 401240
+    },
+    {
+      "ques": "any traffic lights showing ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 401240
+    },
+    {
+      "ques": "can you see the door ? ",
+      "gt_ans": "yes from a distance ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 401240
+    },
+    {
+      "ques": "is the door open ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 401240
+    }
+  ],
+  [
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 353889
+    },
+    {
+      "ques": "what race is the woman ? ",
+      "gt_ans": "white ",
+      "sample_ans": "white ",
+      "rnd": 1,
+      "img_id": 353889
+    },
+    {
+      "ques": "is she wearing a visor ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 353889
+    },
+    {
+      "ques": "what color is her hair ? ",
+      "gt_ans": "brown ",
+      "sample_ans": "blonde ",
+      "rnd": 3,
+      "img_id": 353889
+    },
+    {
+      "ques": "is her hair in a ponytail ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 353889
+    },
+    {
+      "ques": "is her hair long ? ",
+      "gt_ans": "somewhat ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 353889
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 353889
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 353889
+    },
+    {
+      "ques": "is this inside ? ",
+      "gt_ans": "i ca n't tell ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 8,
+      "img_id": 353889
+    },
+    {
+      "ques": "is this close up ? ",
+      "gt_ans": "not really ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 353889
+    }
+  ],
+  [
+    {
+      "ques": "is the picture in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 125435
+    },
+    {
+      "ques": "is the pizza whole ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 125435
+    },
+    {
+      "ques": "is it only vegetable toppings ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 125435
+    },
+    {
+      "ques": "is it on a table ? ",
+      "gt_ans": "its on a counter i think ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 125435
+    },
+    {
+      "ques": "does it look like it 's a home or restaurant ? ",
+      "gt_ans": "home ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 4,
+      "img_id": 125435
+    },
+    {
+      "ques": "is there people around ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 125435
+    },
+    {
+      "ques": "can you see the kitchen ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 125435
+    },
+    {
+      "ques": "can you see the walls ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 125435
+    },
+    {
+      "ques": "is there any windows ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 125435
+    },
+    {
+      "ques": "is there a light on ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 125435
+    }
+  ],
+  [
+    {
+      "ques": "is there people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 97156
+    },
+    {
+      "ques": "is the cat big ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 97156
+    },
+    {
+      "ques": "is the floor carpet ? ",
+      "gt_ans": "appears to be ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 97156
+    },
+    {
+      "ques": "is there other furniture ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 97156
+    },
+    {
+      "ques": "what color is the flooring ? ",
+      "gt_ans": "brown ",
+      "sample_ans": "gray ",
+      "rnd": 4,
+      "img_id": 97156
+    },
+    {
+      "ques": "is the room well lit ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 97156
+    },
+    {
+      "ques": "is there walls ? ",
+      "gt_ans": "0 visible ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 97156
+    },
+    {
+      "ques": "is there other suitcases ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 97156
+    },
+    {
+      "ques": "is there a tv ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 97156
+    },
+    {
+      "ques": "is there a lamp ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 97156
+    }
+  ],
+  [
+    {
+      "ques": "what color is the sofa ? ",
+      "gt_ans": "blue ",
+      "sample_ans": "blue ",
+      "rnd": 0,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see a table ? ",
+      "gt_ans": "small little table ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see curtains ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 31735
+    },
+    {
+      "ques": "are UNK large windows ? ",
+      "gt_ans": "about average ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 31735
+    },
+    {
+      "ques": "what color are the curtains ? ",
+      "gt_ans": "white ",
+      "sample_ans": "red ",
+      "rnd": 4,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see a door ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see a rug ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see a lamp ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 31735
+    },
+    {
+      "ques": "what color is the rug ? ",
+      "gt_ans": "red and green design ",
+      "sample_ans": "red ",
+      "rnd": 8,
+      "img_id": 31735
+    },
+    {
+      "ques": "do you see any stairs ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 31735
+    }
+  ],
+  [
+    {
+      "ques": "how many people are there ? ",
+      "gt_ans": "2 people ",
+      "sample_ans": "2 ",
+      "rnd": 0,
+      "img_id": 486803
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "sunny but partly cloudy ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 486803
+    },
+    {
+      "ques": "what gender are the people ? ",
+      "gt_ans": "2 males but hard to confirm ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 2,
+      "img_id": 486803
+    },
+    {
+      "ques": "does the person looks like they will land on their feet ? ",
+      "gt_ans": "the person in the air looks like he ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 486803
+    },
+    {
+      "ques": "what is the snowboarder wearing ? ",
+      "gt_ans": "white ski pant , white jacket , pink ",
+      "sample_ans": "a blue jacket and black pants ",
+      "rnd": 4,
+      "img_id": 486803
+    },
+    {
+      "ques": "what is the photographer wearing ? ",
+      "gt_ans": "a black sweater , pants ",
+      "sample_ans": "blue jacket and black pants ",
+      "rnd": 5,
+      "img_id": 486803
+    },
+    {
+      "ques": "can you see any trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 486803
+    },
+    {
+      "ques": "is there a mountain ? ",
+      "gt_ans": "yes several mountain peaks can be seen ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 486803
+    },
+    {
+      "ques": "does the snow look fresh ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 486803
+    },
+    {
+      "ques": "are there any footprints in the snow ? ",
+      "gt_ans": "only snowboard tracks can be seen ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 486803
+    }
+  ],
+  [
+    {
+      "ques": "is the zebra alone in the photo ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 486805
+    },
+    {
+      "ques": "is it in the wild ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 486805
+    },
+    {
+      "ques": "are there any trees ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 486805
+    },
+    {
+      "ques": "what does the ground look like ? ",
+      "gt_ans": "it is dirt with patches of dirt the ",
+      "sample_ans": "dirt ",
+      "rnd": 3,
+      "img_id": 486805
+    },
+    {
+      "ques": "are there clouds in the sky ? ",
+      "gt_ans": "i ca n't see the sky from this ",
+      "sample_ans": "i ca n't see the sky ",
+      "rnd": 4,
+      "img_id": 486805
+    },
+    {
+      "ques": "what is the zebra eating if the ground is just dirt ? ",
+      "gt_ans": "there are patches of grass , sorry ",
+      "sample_ans": "it 's just dirt ",
+      "rnd": 5,
+      "img_id": 486805
+    },
+    {
+      "ques": "are there any birds on the zebra ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 486805
+    },
+    {
+      "ques": "can you see any water ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 486805
+    },
+    {
+      "ques": "is there anything around the zebra ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 486805
+    },
+    {
+      "ques": "can you see anything else in the picture ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 486805
+    }
+  ],
+  [
+    {
+      "ques": "what city is it in ? ",
+      "gt_ans": "look like big city but i do n't ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 0,
+      "img_id": 195510
+    },
+    {
+      "ques": "are any pedestrians visible ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 195510
+    },
+    {
+      "ques": "can you tell what country it 's in ? ",
+      "gt_ans": "it looks like country in europe ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 195510
+    },
+    {
+      "ques": "can you see any buildings ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 195510
+    },
+    {
+      "ques": "what sort of buildings ? ",
+      "gt_ans": "there are about 5 buildings of different designs ",
+      "sample_ans": "office buildings ",
+      "rnd": 4,
+      "img_id": 195510
+    },
+    {
+      "ques": "is any writing visible ? ",
+      "gt_ans": "there are writings but hardly see them ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 195510
+    },
+    {
+      "ques": "is it daytime ? ",
+      "gt_ans": "yes it is morning or afternoon ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 195510
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "yes , it is sunny ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 195510
+    },
+    {
+      "ques": "are there any clouds ? ",
+      "gt_ans": "yes little bit ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 195510
+    },
+    {
+      "ques": "is ground wet ? ",
+      "gt_ans": "no it is dry ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 195510
+    }
+  ],
+  [
+    {
+      "ques": "is it only the 2 cows visible ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 19974
+    },
+    {
+      "ques": "does it appear to be on a farm ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 19974
+    },
+    {
+      "ques": "are they cows completely brown or brown and white ? ",
+      "gt_ans": "they are completely brown and they are calves ",
+      "sample_ans": "both ",
+      "rnd": 2,
+      "img_id": 19974
+    },
+    {
+      "ques": "are there any people visible ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 19974
+    },
+    {
+      "ques": "can you see a barn ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 19974
+    },
+    {
+      "ques": "any trees around them ? ",
+      "gt_ans": "far off in the background ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 19974
+    },
+    {
+      "ques": "is the barn red ? ",
+      "gt_ans": "no it 's wood brown ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 19974
+    },
+    {
+      "ques": "are the cows eating the grass ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 19974
+    },
+    {
+      "ques": "are they standing up ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 19974
+    },
+    {
+      "ques": "is it a clear day ? ",
+      "gt_ans": "i think so ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 19974
+    }
+  ],
+  [
+    {
+      "ques": "is there any people do you see ? ",
+      "gt_ans": "0 ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 80596
+    },
+    {
+      "ques": "is the bag big ? ",
+      "gt_ans": "medium ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 80596
+    },
+    {
+      "ques": "what type of bag it is ? ",
+      "gt_ans": "a leather bag ",
+      "sample_ans": "backpack ",
+      "rnd": 2,
+      "img_id": 80596
+    },
+    {
+      "ques": "is the bag is filled with luggage ? ",
+      "gt_ans": "no it 's empty ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 80596
+    },
+    {
+      "ques": "do you see the floor ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 80596
+    },
+    {
+      "ques": "is it inside or outside ? ",
+      "gt_ans": "inside ",
+      "sample_ans": "inside ",
+      "rnd": 5,
+      "img_id": 80596
+    },
+    {
+      "ques": "do you see the wall ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 80596
+    },
+    {
+      "ques": "what is the color of wall ? ",
+      "gt_ans": "greyish blue ",
+      "sample_ans": "white ",
+      "rnd": 7,
+      "img_id": 80596
+    },
+    {
+      "ques": "is any pictures on the wall ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 80596
+    },
+    {
+      "ques": "do you see the ceiling ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 80596
+    }
+  ],
+  [
+    {
+      "ques": "is this in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 88021
+    },
+    {
+      "ques": "are there any people ? ",
+      "gt_ans": "i can see 5 ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 88021
+    },
+    {
+      "ques": "how many cars ? ",
+      "gt_ans": "4 ",
+      "sample_ans": "3 ",
+      "rnd": 2,
+      "img_id": 88021
+    },
+    {
+      "ques": "can you see the sky ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 88021
+    },
+    {
+      "ques": "do the cars have numbers ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 88021
+    },
+    {
+      "ques": "are the drivers visible ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 88021
+    },
+    {
+      "ques": "any children ? ",
+      "gt_ans": "no it 's a car show ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 88021
+    },
+    {
+      "ques": "is this america ? ",
+      "gt_ans": "no ",
+      "sample_ans": "i ca n't tell ",
+      "rnd": 7,
+      "img_id": 88021
+    },
+    {
+      "ques": "any flags ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 88021
+    },
+    {
+      "ques": "are the people dressed casually ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 88021
+    }
+  ],
+  [
+    {
+      "ques": "how many people do you see ? ",
+      "gt_ans": "2 ",
+      "sample_ans": "3 ",
+      "rnd": 0,
+      "img_id": 12014
+    },
+    {
+      "ques": "are the windows tinted ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 12014
+    },
+    {
+      "ques": "is the bus full ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 2,
+      "img_id": 12014
+    },
+    {
+      "ques": "is the road bus ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 12014
+    },
+    {
+      "ques": "are there any other cars on the road ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 12014
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 12014
+    },
+    {
+      "ques": "is it raining ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 12014
+    },
+    {
+      "ques": "is it cloudy ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 12014
+    },
+    {
+      "ques": "is there a number on the bus ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 12014
+    },
+    {
+      "ques": "what is the number ? ",
+      "gt_ans": "UNK ",
+      "sample_ans": "UNK ",
+      "rnd": 9,
+      "img_id": 12014
+    }
+  ],
+  [
+    {
+      "ques": "what color are the sheep ? ",
+      "gt_ans": "beige ",
+      "sample_ans": "white ",
+      "rnd": 0,
+      "img_id": 512879
+    },
+    {
+      "ques": "where are they ? ",
+      "gt_ans": "hill ",
+      "sample_ans": "farm ",
+      "rnd": 1,
+      "img_id": 512879
+    },
+    {
+      "ques": "is there a fence ? ",
+      "gt_ans": "rock fence ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 512879
+    },
+    {
+      "ques": "is there water ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 512879
+    },
+    {
+      "ques": "do the sheep have a lot of wool ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 512879
+    },
+    {
+      "ques": "do they look healthy ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 512879
+    },
+    {
+      "ques": "are they dirty ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 512879
+    },
+    {
+      "ques": "are there trees ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 512879
+    },
+    {
+      "ques": "what color is the grass ? ",
+      "gt_ans": "green ",
+      "sample_ans": "green ",
+      "rnd": 8,
+      "img_id": 512879
+    },
+    {
+      "ques": "how is the weather ? ",
+      "gt_ans": "is it sunny ",
+      "sample_ans": "cloudy ",
+      "rnd": 9,
+      "img_id": 512879
+    }
+  ],
+  [
+    {
+      "ques": "are they stop signs ? ",
+      "gt_ans": "no it 's 2 signs UNK the streets ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 12016
+    },
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 12016
+    },
+    {
+      "ques": "what color are the signs ? ",
+      "gt_ans": "green with white lettering ",
+      "sample_ans": "black and white ",
+      "rnd": 2,
+      "img_id": 12016
+    },
+    {
+      "ques": "is it day or night out ? ",
+      "gt_ans": "day ",
+      "sample_ans": "day ",
+      "rnd": 3,
+      "img_id": 12016
+    },
+    {
+      "ques": "is it sunny ? ",
+      "gt_ans": "it is sunny but can still see a ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 12016
+    },
+    {
+      "ques": "are the signs on a pole ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 12016
+    },
+    {
+      "ques": "what color is the pole ? ",
+      "gt_ans": "it 's just a silver metal pole ",
+      "sample_ans": "black ",
+      "rnd": 6,
+      "img_id": 12016
+    },
+    {
+      "ques": "do the signs look new ? ",
+      "gt_ans": "yes they look fairly new ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 12016
+    },
+    {
+      "ques": "is there any graffiti on the signs or pole ? ",
+      "gt_ans": "no graffiti is visible ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 12016
+    },
+    {
+      "ques": "what are the street names ? ",
+      "gt_ans": "worth ave and UNK ave ",
+      "sample_ans": "UNK and UNK ",
+      "rnd": 9,
+      "img_id": 12016
+    }
+  ],
+  [
+    {
+      "ques": "is this picture in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 12010
+    },
+    {
+      "ques": "is the pizza whole ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "yes ",
+      "rnd": 1,
+      "img_id": 12010
+    },
+    {
+      "ques": "is it on a plate ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 2,
+      "img_id": 12010
+    },
+    {
+      "ques": "can you see the table ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 12010
+    },
+    {
+      "ques": "do you see any utensils ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 4,
+      "img_id": 12010
+    },
+    {
+      "ques": "how many pieces of broccoli do you see ? ",
+      "gt_ans": "0 ",
+      "sample_ans": "2 ",
+      "rnd": 5,
+      "img_id": 12010
+    },
+    {
+      "ques": "do you see cheese ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 12010
+    },
+    {
+      "ques": "does the pizza have a bite out of it ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 12010
+    },
+    {
+      "ques": "is it on a plate ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 8,
+      "img_id": 12010
+    },
+    {
+      "ques": "do you see any bacon ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 12010
+    }
+  ],
+  [
+    {
+      "ques": "are there any people ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 100016
+    },
+    {
+      "ques": "are there any animals ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 1,
+      "img_id": 100016
+    },
+    {
+      "ques": "are there any cars ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 2,
+      "img_id": 100016
+    },
+    {
+      "ques": "is picture in city or country ? ",
+      "gt_ans": "city ",
+      "sample_ans": "city ",
+      "rnd": 3,
+      "img_id": 100016
+    },
+    {
+      "ques": "what does billboard advertise ? ",
+      "gt_ans": "shed loads of original shows not sure what ",
+      "sample_ans": "it 's busy street ",
+      "rnd": 4,
+      "img_id": 100016
+    },
+    {
+      "ques": "are there pictures on it ? ",
+      "gt_ans": "yes 3 frames , man , clown in ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 100016
+    },
+    {
+      "ques": "is it old billboard ? ",
+      "gt_ans": "no ",
+      "sample_ans": "yes ",
+      "rnd": 6,
+      "img_id": 100016
+    },
+    {
+      "ques": "what is tunnel made of ? ",
+      "gt_ans": "brick ",
+      "sample_ans": "metal ",
+      "rnd": 7,
+      "img_id": 100016
+    },
+    {
+      "ques": "is it old tunnel ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 8,
+      "img_id": 100016
+    },
+    {
+      "ques": "is it falling apart ? ",
+      "gt_ans": "rather yes ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 100016
+    }
+  ],
+  [
+    {
+      "ques": "is the photo in color ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 0,
+      "img_id": 100010
+    },
+    {
+      "ques": "how many people are there ? ",
+      "gt_ans": "3 ",
+      "sample_ans": "2 ",
+      "rnd": 1,
+      "img_id": 100010
+    },
+    {
+      "ques": "are they male or female ? ",
+      "gt_ans": "ca n't tell since the pic is blurry ",
+      "sample_ans": "male ",
+      "rnd": 2,
+      "img_id": 100010
+    },
+    {
+      "ques": "are they moving ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 3,
+      "img_id": 100010
+    },
+    {
+      "ques": "is there a lot of snow ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 100010
+    },
+    {
+      "ques": "do you see trees ? ",
+      "gt_ans": "yes , a lot ",
+      "sample_ans": "yes ",
+      "rnd": 5,
+      "img_id": 100010
+    },
+    {
+      "ques": "do you see the ski lift ? ",
+      "gt_ans": "no ski lift ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 100010
+    },
+    {
+      "ques": "is there a lot of snow ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 7,
+      "img_id": 100010
+    },
+    {
+      "ques": "are they wearing goggles ? ",
+      "gt_ans": "ca n't tell ",
+      "sample_ans": "ca n't tell ",
+      "rnd": 8,
+      "img_id": 100010
+    },
+    {
+      "ques": "is the photo well lit ? ",
+      "gt_ans": "yes ",
+      "sample_ans": "yes ",
+      "rnd": 9,
+      "img_id": 100010
+    }
+  ],
+  [
+    {
+      "ques": "are zebras in zoo ? ",
+      "gt_ans": "no zebras not in zoo ",
+      "sample_ans": "no ",
+      "rnd": 0,
+      "img_id": 52462
+    },
+    {
+      "ques": "are they adults or babies ? ",
+      "gt_ans": "i would say they are adults ",
+      "sample_ans": "adults ",
+      "rnd": 1,
+      "img_id": 52462
+    },
+    {
+      "ques": "are they standing next to each other ? ",
+      "gt_ans": "1 lead in front , while other 1 ",
+      "sample_ans": "yes they are ",
+      "rnd": 2,
+      "img_id": 52462
+    },
+    {
+      "ques": "is there water source in image ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 3,
+      "img_id": 52462
+    },
+    {
+      "ques": "is it sunny out ? ",
+      "gt_ans": "it does look like sunny ",
+      "sample_ans": "yes ",
+      "rnd": 4,
+      "img_id": 52462
+    },
+    {
+      "ques": "any trees ? ",
+      "gt_ans": "there are few trees but is not in ",
+      "sample_ans": "no ",
+      "rnd": 5,
+      "img_id": 52462
+    },
+    {
+      "ques": "are zebras eating ? ",
+      "gt_ans": "no , they are walking ",
+      "sample_ans": "no ",
+      "rnd": 6,
+      "img_id": 52462
+    },
+    {
+      "ques": "any other animals in picture ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 7,
+      "img_id": 52462
+    },
+    {
+      "ques": "is there any type of enclosure ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 8,
+      "img_id": 52462
+    },
+    {
+      "ques": "is grass green ? ",
+      "gt_ans": "no ",
+      "sample_ans": "no ",
+      "rnd": 9,
+      "img_id": 52462
+    }
   ]
-  
+]
