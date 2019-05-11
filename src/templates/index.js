@@ -116,13 +116,7 @@ const IndexPage = ({ pageContext: { rowsData, total, page, pageSize } }) => {
           columns={columns}
           rowClassName="vtable-row"
           size="middle"
-          pagination={{
-            showQuickJumper: true,
-            current: page,
-            total,
-            pageSize,
-            onChange: goToPage,
-          }}
+          pagination={false}
         />
       </Content>
     </Layout>
